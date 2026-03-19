@@ -1,0 +1,143 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b0377fffb11c",
+  "name": "MC Add L 2",
+  "type": "text",
+  "x": 1126,
+  "y": 935,
+  "width": 40,
+  "height": 22,
+  "rotation": 0,
+  "selrect": {
+    "x": 1126,
+    "y": 935,
+    "width": 40,
+    "height": 22,
+    "x1": 1126,
+    "y1": 935,
+    "x2": 1166,
+    "y2": 957
+  },
+  "points": [
+    {
+      "x": 1126,
+      "y": 935
+    },
+    {
+      "x": 1166,
+      "y": 935
+    },
+    {
+      "x": 1166,
+      "y": 957
+    },
+    {
+      "x": 1126,
+      "y": 957
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b0377f5282d9",
+  "frameId": "3020c42d-f7eb-809c-8007-b0377f5282d9",
+  "flipX": null,
+  "flipY": null,
+  "growType": "fixed",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "sourcesanspro",
+                "fontSize": "18",
+                "fontWeight": "700",
+                "textDirection": "ltr",
+                "fontVariantId": "bold",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#757575",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "sourcesanspro",
+                "text": "+"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "center",
+            "fontId": "sourcesanspro",
+            "fontSize": "18",
+            "fontWeight": "700",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "bold",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#757575",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "sourcesanspro"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 1141.234375,
+      "y": 958,
+      "width": 9.515625,
+      "height": 25,
+      "x1": 15.234375,
+      "y1": -2,
+      "x2": 24.75,
+      "y2": 23,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "18px",
+      "fontWeight": "700",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#757575",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "sourcesanspro",
+      "text": "+"
+    }
+  ],
+  "pageId": "3020c42d-f7eb-809c-8007-b036d76a3bf9"
+}

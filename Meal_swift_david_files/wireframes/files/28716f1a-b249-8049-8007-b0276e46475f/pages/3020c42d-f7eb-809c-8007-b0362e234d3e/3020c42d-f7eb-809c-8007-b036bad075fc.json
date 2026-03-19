@@ -1,0 +1,143 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b036bad075fc",
+  "name": "Card 2 Ph Lbl",
+  "type": "text",
+  "x": 910,
+  "y": 482,
+  "width": 300,
+  "height": 18,
+  "rotation": 0,
+  "selrect": {
+    "x": 910,
+    "y": 482,
+    "width": 300,
+    "height": 18,
+    "x1": 910,
+    "y1": 482,
+    "x2": 1210,
+    "y2": 500
+  },
+  "points": [
+    {
+      "x": 910,
+      "y": 482
+    },
+    {
+      "x": 1210,
+      "y": 482
+    },
+    {
+      "x": 1210,
+      "y": 500
+    },
+    {
+      "x": 910,
+      "y": 500
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b036b98e5508",
+  "frameId": "3020c42d-f7eb-809c-8007-b036b98e5508",
+  "flipX": null,
+  "flipY": null,
+  "growType": "fixed",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "sourcesanspro",
+                "fontSize": "12",
+                "fontWeight": "400",
+                "textDirection": "ltr",
+                "fontVariantId": "regular",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#757575",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "sourcesanspro",
+                "text": "Restaurant Photo Placeholder"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "center",
+            "fontId": "sourcesanspro",
+            "fontSize": "12",
+            "fontWeight": "400",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "regular",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#757575",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "sourcesanspro"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 984.84375,
+      "y": 496,
+      "width": 150.296875,
+      "height": 15,
+      "x1": 74.84375,
+      "y1": -1,
+      "x2": 225.140625,
+      "y2": 14,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#757575",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "sourcesanspro",
+      "text": "Restaurant Photo Placeholder"
+    }
+  ],
+  "pageId": "3020c42d-f7eb-809c-8007-b0362e234d3e"
+}

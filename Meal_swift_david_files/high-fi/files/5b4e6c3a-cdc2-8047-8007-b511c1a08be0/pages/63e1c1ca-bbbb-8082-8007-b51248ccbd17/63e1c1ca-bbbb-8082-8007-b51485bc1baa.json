@@ -1,0 +1,143 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51485bc1baa",
+  "name": "Badge Text Google Play",
+  "type": "text",
+  "x": 882,
+  "y": 2184,
+  "width": 84,
+  "height": 16,
+  "rotation": 0,
+  "selrect": {
+    "x": 882,
+    "y": 2184,
+    "width": 84,
+    "height": 16,
+    "x1": 882,
+    "y1": 2184,
+    "x2": 966,
+    "y2": 2200
+  },
+  "points": [
+    {
+      "x": 882,
+      "y": 2184
+    },
+    {
+      "x": 966,
+      "y": 2184
+    },
+    {
+      "x": 966,
+      "y": 2200
+    },
+    {
+      "x": 882,
+      "y": 2200
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b5148514b361",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b5148514b361",
+  "flipX": null,
+  "flipY": null,
+  "growType": "auto-width",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "gfont-cascadia-mono",
+                "fontSize": "13",
+                "fontWeight": "400",
+                "textDirection": "ltr",
+                "fontVariantId": "regular",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#ffffff",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "Cascadia Mono",
+                "text": "Google Play"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "gfont-cascadia-mono",
+            "fontSize": "13",
+            "fontWeight": "400",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "regular",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#ffffff",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "Cascadia Mono"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 882,
+      "y": 2199,
+      "width": 83.796875,
+      "height": 15,
+      "x1": 0,
+      "y1": 0,
+      "x2": 83.796875,
+      "y2": 15,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "13px",
+      "fontWeight": "400",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#ffffff",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "\"Cascadia Mono\"",
+      "text": "Google Play"
+    }
+  ],
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51248ccbd17"
+}

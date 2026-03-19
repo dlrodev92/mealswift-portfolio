@@ -1,0 +1,80 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b517b1487aa3",
+  "name": "Google BG",
+  "type": "rect",
+  "x": 840,
+  "y": 272,
+  "width": 219.99999999999977,
+  "height": 48,
+  "rotation": 0,
+  "selrect": {
+    "x": 840,
+    "y": 272,
+    "width": 219.99999999999977,
+    "height": 48,
+    "x1": 840,
+    "y1": 272,
+    "x2": 1059.9999999999998,
+    "y2": 320
+  },
+  "points": [
+    {
+      "x": 840,
+      "y": 272
+    },
+    {
+      "x": 1059.9999999999998,
+      "y": 272
+    },
+    {
+      "x": 1059.9999999999998,
+      "y": 320
+    },
+    {
+      "x": 840,
+      "y": 320
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b517b1246343",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b517b1246343",
+  "flipX": null,
+  "flipY": null,
+  "r2": 8,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b515e8f41a0b",
+  "r3": 8,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 8,
+  "strokes": [
+    {
+      "strokeColor": "#e0e0e0",
+      "strokeOpacity": 1,
+      "strokeWidth": 1
+    }
+  ],
+  "proportion": 1,
+  "r4": 8,
+  "fills": [
+    {
+      "fillColor": "#ffffff",
+      "fillOpacity": 1
+    }
+  ]
+}

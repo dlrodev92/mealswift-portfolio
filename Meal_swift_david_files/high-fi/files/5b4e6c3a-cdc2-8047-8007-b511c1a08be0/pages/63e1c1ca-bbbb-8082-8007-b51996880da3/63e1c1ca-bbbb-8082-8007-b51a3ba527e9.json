@@ -1,0 +1,81 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51a3ba527e9",
+  "name": "Img Pizza Roma",
+  "type": "rect",
+  "x": 690,
+  "y": 224.00000000000003,
+  "width": 340,
+  "height": 159.99999999999997,
+  "rotation": 0,
+  "selrect": {
+    "x": 690,
+    "y": 224.00000000000003,
+    "width": 340,
+    "height": 159.99999999999997,
+    "x1": 690,
+    "y1": 224.00000000000003,
+    "x2": 1030,
+    "y2": 384
+  },
+  "points": [
+    {
+      "x": 690,
+      "y": 224
+    },
+    {
+      "x": 1030,
+      "y": 224
+    },
+    {
+      "x": 1030,
+      "y": 383.99999999999994
+    },
+    {
+      "x": 690,
+      "y": 383.99999999999994
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51a3b9eec6e",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51a3b9eec6e",
+  "flipX": null,
+  "flipY": null,
+  "r2": 0,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51996880da3",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillOpacity": 1,
+      "fillImage": {
+        "id": "5b4e6c3a-cdc2-8047-8007-b51a1eb7189d",
+        "name": "img-pizza",
+        "width": 400,
+        "height": 533,
+        "mtype": "image\/jpeg",
+        "keepAspectRatio": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51ba2d1b6d4",
+  "name": "N Soup of the Day",
+  "type": "text",
+  "x": 564,
+  "y": 804,
+  "width": 141,
+  "height": 20,
+  "rotation": 0,
+  "selrect": {
+    "x": 564,
+    "y": 804,
+    "width": 141,
+    "height": 20,
+    "x1": 564,
+    "y1": 804,
+    "x2": 705,
+    "y2": 824
+  },
+  "points": [
+    {
+      "x": 564,
+      "y": 804
+    },
+    {
+      "x": 705,
+      "y": 804
+    },
+    {
+      "x": 705,
+      "y": 824
+    },
+    {
+      "x": 564,
+      "y": 824
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51ba2c79a08",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51ba2c79a08",
+  "flipX": null,
+  "flipY": null,
+  "growType": "auto-width",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "gfont-cascadia-mono",
+                "fontSize": "16",
+                "fontWeight": "700",
+                "textDirection": "ltr",
+                "fontVariantId": "700",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#203436",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "Cascadia Mono",
+                "text": "Soup of the Day"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "gfont-cascadia-mono",
+            "fontSize": "16",
+            "fontWeight": "700",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "700",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#203436",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "Cascadia Mono"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 564,
+      "y": 823,
+      "width": 140.625,
+      "height": 19,
+      "x1": 0,
+      "y1": 0,
+      "x2": 140.625,
+      "y2": 19,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#203436",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "\"Cascadia Mono\"",
+      "text": "Soup of the Day"
+    }
+  ],
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51b1c45835a"
+}

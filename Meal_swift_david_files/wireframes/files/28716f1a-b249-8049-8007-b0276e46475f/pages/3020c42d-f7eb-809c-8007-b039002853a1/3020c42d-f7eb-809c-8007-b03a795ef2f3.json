@@ -1,0 +1,74 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b03a795ef2f3",
+  "name": "SSL Icon",
+  "type": "rect",
+  "x": 1530,
+  "y": 224,
+  "width": 24,
+  "height": 24,
+  "rotation": 0,
+  "selrect": {
+    "x": 1530,
+    "y": 224,
+    "width": 24,
+    "height": 24,
+    "x1": 1530,
+    "y1": 224,
+    "x2": 1554,
+    "y2": 248
+  },
+  "points": [
+    {
+      "x": 1530,
+      "y": 224
+    },
+    {
+      "x": 1554,
+      "y": 224
+    },
+    {
+      "x": 1554,
+      "y": 248
+    },
+    {
+      "x": 1530,
+      "y": 248
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b03a7948cb3d",
+  "frameId": "3020c42d-f7eb-809c-8007-b03a7948cb3d",
+  "flipX": null,
+  "flipY": null,
+  "r2": 4,
+  "proportionLock": false,
+  "pageId": "3020c42d-f7eb-809c-8007-b039002853a1",
+  "r3": 4,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 4,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 4,
+  "fills": [
+    {
+      "fillColor": "#e0e0e0",
+      "fillOpacity": 1
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b513935e730f",
+  "name": "Category Pills",
+  "type": "frame",
+  "x": 0,
+  "y": 592,
+  "width": 1440,
+  "height": 100,
+  "rotation": 0,
+  "selrect": {
+    "x": 0,
+    "y": 592,
+    "width": 1440,
+    "height": 100,
+    "x1": 0,
+    "y1": 592,
+    "x2": 1440,
+    "y2": 692
+  },
+  "points": [
+    {
+      "x": 0,
+      "y": 592
+    },
+    {
+      "x": 1440,
+      "y": 592
+    },
+    {
+      "x": 1440,
+      "y": 692
+    },
+    {
+      "x": 0,
+      "y": 692
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b512615dc909",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b512615dc909",
+  "flipX": null,
+  "flipY": null,
+  "hideFillOnExport": false,
+  "hideInViewer": true,
+  "r2": 0,
+  "showContent": false,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51248ccbd17",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillColor": "#ffffff",
+      "fillOpacity": 1
+    }
+  ],
+  "shapes": [
+    "63e1c1ca-bbbb-8082-8007-b513937bd373",
+    "63e1c1ca-bbbb-8082-8007-b513938241c4",
+    "63e1c1ca-bbbb-8082-8007-b51393885b8e",
+    "63e1c1ca-bbbb-8082-8007-b513938efaf9",
+    "63e1c1ca-bbbb-8082-8007-b51393954792",
+    "63e1c1ca-bbbb-8082-8007-b513939c24ed",
+    "63e1c1ca-bbbb-8082-8007-b51393a0eb3b",
+    "63e1c1ca-bbbb-8082-8007-b51393a634d1",
+    "63e1c1ca-bbbb-8082-8007-b51393ad296a",
+    "63e1c1ca-bbbb-8082-8007-b51393b2c0f2",
+    "63e1c1ca-bbbb-8082-8007-b51393b877ce",
+    "63e1c1ca-bbbb-8082-8007-b51393be845a",
+    "63e1c1ca-bbbb-8082-8007-b51393c4b009",
+    "63e1c1ca-bbbb-8082-8007-b51393d05dc1",
+    "63e1c1ca-bbbb-8082-8007-b51393dac6d3",
+    "63e1c1ca-bbbb-8082-8007-b51393e40470",
+    "63e1c1ca-bbbb-8082-8007-b5139375b99f",
+    "63e1c1ca-bbbb-8082-8007-b513936ba205"
+  ]
+}

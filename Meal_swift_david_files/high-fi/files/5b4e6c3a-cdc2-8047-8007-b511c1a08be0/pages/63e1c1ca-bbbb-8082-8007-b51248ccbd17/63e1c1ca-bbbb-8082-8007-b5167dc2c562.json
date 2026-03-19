@@ -1,0 +1,143 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b5167dc2c562",
+  "name": "RC Welcome",
+  "type": "text",
+  "x": 840,
+  "y": 176,
+  "width": 225,
+  "height": 39,
+  "rotation": 0,
+  "selrect": {
+    "x": 840,
+    "y": 176,
+    "width": 225,
+    "height": 39,
+    "x1": 840,
+    "y1": 176,
+    "x2": 1065,
+    "y2": 215
+  },
+  "points": [
+    {
+      "x": 840,
+      "y": 176
+    },
+    {
+      "x": 1065,
+      "y": 176
+    },
+    {
+      "x": 1065,
+      "y": 215
+    },
+    {
+      "x": 840,
+      "y": 215
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b5167daf59e6",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b5167daf59e6",
+  "flipX": null,
+  "flipY": null,
+  "growType": "auto-width",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "gfont-cascadia-mono",
+                "fontSize": "32",
+                "fontWeight": "700",
+                "textDirection": "ltr",
+                "fontVariantId": "700",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#203436",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "Cascadia Mono",
+                "text": "Welcome back"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "gfont-cascadia-mono",
+            "fontSize": "32",
+            "fontWeight": "700",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "700",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#203436",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "Cascadia Mono"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 840,
+      "y": 214,
+      "width": 225,
+      "height": 38,
+      "x1": 0,
+      "y1": 0,
+      "x2": 225,
+      "y2": 38,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "32px",
+      "fontWeight": "700",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#203436",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "\"Cascadia Mono\"",
+      "text": "Welcome back"
+    }
+  ],
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51248ccbd17"
+}

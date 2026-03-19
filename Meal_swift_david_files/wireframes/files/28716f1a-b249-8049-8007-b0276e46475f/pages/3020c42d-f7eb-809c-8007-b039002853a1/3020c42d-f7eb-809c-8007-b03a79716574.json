@@ -1,0 +1,74 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b03a79716574",
+  "name": "Step 1 Circ",
+  "type": "rect",
+  "x": 708,
+  "y": 291,
+  "width": 24,
+  "height": 24,
+  "rotation": 0,
+  "selrect": {
+    "x": 708,
+    "y": 291,
+    "width": 24,
+    "height": 24,
+    "x1": 708,
+    "y1": 291,
+    "x2": 732,
+    "y2": 315
+  },
+  "points": [
+    {
+      "x": 708,
+      "y": 291
+    },
+    {
+      "x": 732,
+      "y": 291
+    },
+    {
+      "x": 732,
+      "y": 315
+    },
+    {
+      "x": 708,
+      "y": 315
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b03a7948cb3d",
+  "frameId": "3020c42d-f7eb-809c-8007-b03a7948cb3d",
+  "flipX": null,
+  "flipY": null,
+  "r2": 12,
+  "proportionLock": false,
+  "pageId": "3020c42d-f7eb-809c-8007-b039002853a1",
+  "r3": 12,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 12,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 12,
+  "fills": [
+    {
+      "fillColor": "#212121",
+      "fillOpacity": 1
+    }
+  ]
+}

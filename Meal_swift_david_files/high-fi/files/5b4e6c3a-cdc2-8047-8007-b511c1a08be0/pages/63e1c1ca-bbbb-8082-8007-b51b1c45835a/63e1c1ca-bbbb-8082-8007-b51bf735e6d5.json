@@ -1,0 +1,143 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51bf735e6d5",
+  "name": "Cart_Subtotal_774",
+  "type": "text",
+  "x": 1072,
+  "y": 774,
+  "width": 66,
+  "height": 17,
+  "rotation": 0,
+  "selrect": {
+    "x": 1072,
+    "y": 774,
+    "width": 66,
+    "height": 17,
+    "x1": 1072,
+    "y1": 774,
+    "x2": 1138,
+    "y2": 791
+  },
+  "points": [
+    {
+      "x": 1072,
+      "y": 774
+    },
+    {
+      "x": 1138,
+      "y": 774
+    },
+    {
+      "x": 1138,
+      "y": 791
+    },
+    {
+      "x": 1072,
+      "y": 791
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51bf6aeb1ec",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51bf6aeb1ec",
+  "flipX": null,
+  "flipY": null,
+  "growType": "auto-width",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "gfont-cascadia-mono",
+                "fontSize": "14",
+                "fontWeight": "400",
+                "textDirection": "ltr",
+                "fontVariantId": "regular",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#757575",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "Cascadia Mono",
+                "text": "Subtotal"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "gfont-cascadia-mono",
+            "fontSize": "14",
+            "fontWeight": "400",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "regular",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#757575",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "Cascadia Mono"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 1072,
+      "y": 790,
+      "width": 65.625,
+      "height": 16,
+      "x1": 0,
+      "y1": 0,
+      "x2": 65.625,
+      "y2": 16,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#757575",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "\"Cascadia Mono\"",
+      "text": "Subtotal"
+    }
+  ],
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51b1c45835a"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b512c39333dd",
+  "name": "Hero Section",
+  "type": "frame",
+  "x": 0,
+  "y": 72,
+  "width": 1440,
+  "height": 520,
+  "rotation": 0,
+  "selrect": {
+    "x": 0,
+    "y": 72,
+    "width": 1440,
+    "height": 520,
+    "x1": 0,
+    "y1": 72,
+    "x2": 1440,
+    "y2": 592
+  },
+  "points": [
+    {
+      "x": 0,
+      "y": 72
+    },
+    {
+      "x": 1440,
+      "y": 72
+    },
+    {
+      "x": 1440,
+      "y": 592
+    },
+    {
+      "x": 0,
+      "y": 592
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b512615dc909",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b512615dc909",
+  "flipX": null,
+  "flipY": null,
+  "hideFillOnExport": false,
+  "hideInViewer": true,
+  "r2": 0,
+  "showContent": false,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51248ccbd17",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillColor": "#203436",
+      "fillOpacity": 1
+    }
+  ],
+  "shapes": [
+    "63e1c1ca-bbbb-8082-8007-b512c39eef6f",
+    "63e1c1ca-bbbb-8082-8007-b512c3a330ad",
+    "63e1c1ca-bbbb-8082-8007-b512c3a74297",
+    "63e1c1ca-bbbb-8082-8007-b512c3ae192f",
+    "63e1c1ca-bbbb-8082-8007-b512c3b44c07",
+    "63e1c1ca-bbbb-8082-8007-b512c3bdc16d",
+    "63e1c1ca-bbbb-8082-8007-b512c3c74939",
+    "63e1c1ca-bbbb-8082-8007-b512c3cd7f56",
+    "63e1c1ca-bbbb-8082-8007-b512c3d5d76d"
+  ]
+}

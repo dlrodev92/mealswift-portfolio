@@ -1,0 +1,74 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b033018c8f0c",
+  "name": "Left Overlay",
+  "type": "rect",
+  "x": 200,
+  "y": 962,
+  "width": 720,
+  "height": 90,
+  "rotation": 0,
+  "selrect": {
+    "x": 200,
+    "y": 962,
+    "width": 720,
+    "height": 90,
+    "x1": 200,
+    "y1": 962,
+    "x2": 920,
+    "y2": 1052
+  },
+  "points": [
+    {
+      "x": 200,
+      "y": 962
+    },
+    {
+      "x": 920,
+      "y": 962
+    },
+    {
+      "x": 920,
+      "y": 1052
+    },
+    {
+      "x": 200,
+      "y": 1052
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b033016d8db5",
+  "frameId": "3020c42d-f7eb-809c-8007-b033016d8db5",
+  "flipX": null,
+  "flipY": null,
+  "r2": 0,
+  "proportionLock": false,
+  "pageId": "3020c42d-f7eb-809c-8007-b03211245d7f",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillColor": "#757575",
+      "fillOpacity": 1
+    }
+  ]
+}

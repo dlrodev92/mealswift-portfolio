@@ -1,0 +1,106 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51bc8881be0",
+  "name": "Card Onion Rings",
+  "type": "frame",
+  "x": 548,
+  "y": 1476,
+  "width": 460,
+  "height": 119.99999999999977,
+  "rotation": 0,
+  "selrect": {
+    "x": 548,
+    "y": 1476,
+    "width": 460,
+    "height": 119.99999999999977,
+    "x1": 548,
+    "y1": 1476,
+    "x2": 1008,
+    "y2": 1595.9999999999998
+  },
+  "points": [
+    {
+      "x": 548,
+      "y": 1476
+    },
+    {
+      "x": 1008,
+      "y": 1476
+    },
+    {
+      "x": 1008,
+      "y": 1595.9999999999998
+    },
+    {
+      "x": 548,
+      "y": 1595.9999999999998
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51ba25098aa",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51ba25098aa",
+  "flipX": null,
+  "flipY": null,
+  "hideFillOnExport": false,
+  "hideInViewer": true,
+  "r2": 8,
+  "showContent": false,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51b1c45835a",
+  "r3": 8,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 8,
+  "strokes": [
+    {
+      "strokeColor": "#e0e0e0",
+      "strokeOpacity": 1,
+      "strokeWidth": 1
+    }
+  ],
+  "proportion": 1,
+  "shadow": [
+    {
+      "id": "63e1c1ca-bbbb-8082-8007-b51bc88e1765",
+      "style": "drop-shadow",
+      "color": {
+        "color": "#000000",
+        "opacity": 0.06
+      },
+      "offsetX": 0,
+      "offsetY": 1,
+      "blur": 4,
+      "spread": 0,
+      "hidden": false
+    }
+  ],
+  "r4": 8,
+  "fills": [
+    {
+      "fillColor": "#ffffff",
+      "fillOpacity": 1
+    }
+  ],
+  "shapes": [
+    "63e1c1ca-bbbb-8082-8007-b51bc8ab6d8d",
+    "63e1c1ca-bbbb-8082-8007-b51bc8a64765",
+    "63e1c1ca-bbbb-8082-8007-b51bc8a0886c",
+    "63e1c1ca-bbbb-8082-8007-b51bc89b105b",
+    "63e1c1ca-bbbb-8082-8007-b51bc8947018",
+    "63e1c1ca-bbbb-8082-8007-b51bc8905ed1"
+  ]
+}

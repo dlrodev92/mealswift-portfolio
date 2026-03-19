@@ -1,0 +1,143 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b03a7a4bd539",
+  "name": "Promo Hd",
+  "type": "text",
+  "x": 240,
+  "y": 1690,
+  "width": 98,
+  "height": 22,
+  "rotation": 0,
+  "selrect": {
+    "x": 240,
+    "y": 1690,
+    "width": 98,
+    "height": 22,
+    "x1": 240,
+    "y1": 1690,
+    "x2": 338,
+    "y2": 1712
+  },
+  "points": [
+    {
+      "x": 240,
+      "y": 1690
+    },
+    {
+      "x": 338,
+      "y": 1690
+    },
+    {
+      "x": 338,
+      "y": 1712
+    },
+    {
+      "x": 240,
+      "y": 1712
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b03a7948cb3d",
+  "frameId": "3020c42d-f7eb-809c-8007-b03a7948cb3d",
+  "flipX": null,
+  "flipY": null,
+  "growType": "auto-width",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "sourcesanspro",
+                "fontSize": "18",
+                "fontWeight": "700",
+                "textDirection": "ltr",
+                "fontVariantId": "bold",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#212121",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "sourcesanspro",
+                "text": "Promo Code"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "sourcesanspro",
+            "fontSize": "18",
+            "fontWeight": "700",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "bold",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#212121",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "sourcesanspro"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 240,
+      "y": 1713,
+      "width": 97.109375,
+      "height": 25,
+      "x1": 0,
+      "y1": -2,
+      "x2": 97.109375,
+      "y2": 23,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "18px",
+      "fontWeight": "700",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#212121",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "sourcesanspro",
+      "text": "Promo Code"
+    }
+  ],
+  "pageId": "3020c42d-f7eb-809c-8007-b039002853a1"
+}

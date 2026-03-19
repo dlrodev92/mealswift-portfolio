@@ -1,0 +1,81 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b514171c3f96",
+  "name": "Card Img Burger Palace",
+  "type": "rect",
+  "x": 80,
+  "y": 828,
+  "width": 380,
+  "height": 160,
+  "rotation": 0,
+  "selrect": {
+    "x": 80,
+    "y": 828,
+    "width": 380,
+    "height": 160,
+    "x1": 80,
+    "y1": 828,
+    "x2": 460,
+    "y2": 988
+  },
+  "points": [
+    {
+      "x": 80,
+      "y": 828
+    },
+    {
+      "x": 460,
+      "y": 828
+    },
+    {
+      "x": 460,
+      "y": 988
+    },
+    {
+      "x": 80,
+      "y": 988
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b514170f9d79",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b514170f9d79",
+  "flipX": null,
+  "flipY": null,
+  "r2": 0,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51248ccbd17",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillOpacity": 1,
+      "fillImage": {
+        "id": "5b4e6c3a-cdc2-8047-8007-b5141e3435e3",
+        "name": "card-burger",
+        "width": 400,
+        "height": 267,
+        "mtype": "image\/jpeg",
+        "keepAspectRatio": false
+      }
+    }
+  ]
+}

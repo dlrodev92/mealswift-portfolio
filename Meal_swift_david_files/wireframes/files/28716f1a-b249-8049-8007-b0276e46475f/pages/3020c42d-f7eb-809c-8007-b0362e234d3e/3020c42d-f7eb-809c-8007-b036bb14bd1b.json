@@ -1,0 +1,143 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b036bb14bd1b",
+  "name": "Card 4 Detail",
+  "type": "text",
+  "x": 522,
+  "y": 958,
+  "width": 144,
+  "height": 15,
+  "rotation": 0,
+  "selrect": {
+    "x": 522,
+    "y": 958,
+    "width": 144,
+    "height": 15,
+    "x1": 522,
+    "y1": 958,
+    "x2": 666,
+    "y2": 973
+  },
+  "points": [
+    {
+      "x": 522,
+      "y": 958
+    },
+    {
+      "x": 666,
+      "y": 958
+    },
+    {
+      "x": 666,
+      "y": 973
+    },
+    {
+      "x": 522,
+      "y": 973
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b036b98e5508",
+  "frameId": "3020c42d-f7eb-809c-8007-b036b98e5508",
+  "flipX": null,
+  "flipY": null,
+  "growType": "auto-width",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "sourcesanspro",
+                "fontSize": "12",
+                "fontWeight": "400",
+                "textDirection": "ltr",
+                "fontVariantId": "regular",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#757575",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "sourcesanspro",
+                "text": "25 min \u00b7 Free delivery \u00b7 0.3 mi"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "sourcesanspro",
+            "fontSize": "12",
+            "fontWeight": "400",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "regular",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#757575",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "sourcesanspro"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 522,
+      "y": 972,
+      "width": 143.796875,
+      "height": 15,
+      "x1": 0,
+      "y1": -1,
+      "x2": 143.796875,
+      "y2": 14,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#757575",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "sourcesanspro",
+      "text": "25 min \u00b7 Free delivery \u00b7 0.3 mi"
+    }
+  ],
+  "pageId": "3020c42d-f7eb-809c-8007-b0362e234d3e"
+}

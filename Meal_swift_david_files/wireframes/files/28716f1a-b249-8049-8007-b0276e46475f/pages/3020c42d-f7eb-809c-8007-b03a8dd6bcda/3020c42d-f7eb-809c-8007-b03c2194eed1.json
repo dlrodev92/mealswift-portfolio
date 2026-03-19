@@ -1,0 +1,212 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b03c2194eed1",
+  "name": "Drv Ph Lbl",
+  "type": "text",
+  "x": 244,
+  "y": 1087,
+  "width": 64,
+  "height": 22,
+  "rotation": 0,
+  "selrect": {
+    "x": 244,
+    "y": 1087,
+    "width": 64,
+    "height": 22,
+    "x1": 244,
+    "y1": 1087,
+    "x2": 308,
+    "y2": 1109
+  },
+  "points": [
+    {
+      "x": 244,
+      "y": 1087
+    },
+    {
+      "x": 308,
+      "y": 1087
+    },
+    {
+      "x": 308,
+      "y": 1109
+    },
+    {
+      "x": 244,
+      "y": 1109
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b03c211d5978",
+  "frameId": "3020c42d-f7eb-809c-8007-b03c211d5978",
+  "flipX": null,
+  "flipY": null,
+  "growType": "fixed",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "sourcesanspro",
+                "fontSize": "10",
+                "fontWeight": "400",
+                "textDirection": "ltr",
+                "fontVariantId": "regular",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#757575",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "sourcesanspro",
+                "text": "Driver"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "center",
+            "fontId": "sourcesanspro",
+            "fontSize": "10",
+            "fontWeight": "400",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "regular",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#757575",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "sourcesanspro"
+          },
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "sourcesanspro",
+                "fontSize": "10",
+                "fontWeight": "400",
+                "textDirection": "ltr",
+                "fontVariantId": "regular",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#757575",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "sourcesanspro",
+                "text": "Photo"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "center",
+            "fontId": "sourcesanspro",
+            "fontSize": "10",
+            "fontWeight": "400",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "regular",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#757575",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "sourcesanspro"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 263.4375,
+      "y": 1099,
+      "width": 25.125,
+      "height": 13,
+      "x1": 19.4375,
+      "y1": -1,
+      "x2": 44.5625,
+      "y2": 12,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#757575",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "sourcesanspro",
+      "text": "Driver"
+    },
+    {
+      "x": 263.328125,
+      "y": 1111,
+      "width": 25.328125,
+      "height": 13,
+      "x1": 19.328125,
+      "y1": 11,
+      "x2": 44.65625,
+      "y2": 24,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#757575",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "sourcesanspro",
+      "text": "Photo"
+    }
+  ],
+  "pageId": "3020c42d-f7eb-809c-8007-b03a8dd6bcda"
+}

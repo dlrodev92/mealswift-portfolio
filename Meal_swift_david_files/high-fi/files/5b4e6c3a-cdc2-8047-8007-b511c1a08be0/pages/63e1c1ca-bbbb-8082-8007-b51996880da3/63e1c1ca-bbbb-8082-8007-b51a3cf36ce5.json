@@ -1,0 +1,81 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51a3cf36ce5",
+  "name": "Img Thai Garden",
+  "type": "rect",
+  "x": 690,
+  "y": 872,
+  "width": 340,
+  "height": 160,
+  "rotation": 0,
+  "selrect": {
+    "x": 690,
+    "y": 872,
+    "width": 340,
+    "height": 160,
+    "x1": 690,
+    "y1": 872,
+    "x2": 1030,
+    "y2": 1032
+  },
+  "points": [
+    {
+      "x": 690,
+      "y": 872
+    },
+    {
+      "x": 1030,
+      "y": 872
+    },
+    {
+      "x": 1030,
+      "y": 1032
+    },
+    {
+      "x": 690,
+      "y": 1032
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51a3ced5ae6",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51a3ced5ae6",
+  "flipX": null,
+  "flipY": null,
+  "r2": 0,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51996880da3",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillOpacity": 1,
+      "fillImage": {
+        "id": "5b4e6c3a-cdc2-8047-8007-b51a1eb7189d",
+        "name": "img-pizza",
+        "width": 400,
+        "height": 533,
+        "mtype": "image\/jpeg",
+        "keepAspectRatio": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51ba2ec3fad",
+  "name": "Card Classic Burger",
+  "type": "frame",
+  "x": 32.00000000000003,
+  "y": 988,
+  "width": 460,
+  "height": 120,
+  "rotation": 0,
+  "selrect": {
+    "x": 32.00000000000003,
+    "y": 988,
+    "width": 460,
+    "height": 120,
+    "x1": 32.00000000000003,
+    "y1": 988,
+    "x2": 492,
+    "y2": 1108
+  },
+  "points": [
+    {
+      "x": 32,
+      "y": 988
+    },
+    {
+      "x": 491.99999999999994,
+      "y": 988
+    },
+    {
+      "x": 491.99999999999994,
+      "y": 1108
+    },
+    {
+      "x": 32,
+      "y": 1108
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51ba25098aa",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51ba25098aa",
+  "flipX": null,
+  "flipY": null,
+  "hideFillOnExport": false,
+  "hideInViewer": true,
+  "r2": 8,
+  "showContent": false,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51b1c45835a",
+  "r3": 8,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 8,
+  "strokes": [
+    {
+      "strokeColor": "#e0e0e0",
+      "strokeOpacity": 1,
+      "strokeWidth": 1
+    }
+  ],
+  "proportion": 1,
+  "shadow": [
+    {
+      "id": "63e1c1ca-bbbb-8082-8007-b51ba2f04862",
+      "style": "drop-shadow",
+      "color": {
+        "color": "#000000",
+        "opacity": 0.06
+      },
+      "offsetX": 0,
+      "offsetY": 1,
+      "blur": 4,
+      "spread": 0,
+      "hidden": false
+    }
+  ],
+  "r4": 8,
+  "fills": [
+    {
+      "fillColor": "#ffffff",
+      "fillOpacity": 1
+    }
+  ],
+  "shapes": [
+    "63e1c1ca-bbbb-8082-8007-b51ba305ff35",
+    "63e1c1ca-bbbb-8082-8007-b51ba30241aa",
+    "63e1c1ca-bbbb-8082-8007-b51ba2fc7aa7",
+    "63e1c1ca-bbbb-8082-8007-b51ba2f88220",
+    "63e1c1ca-bbbb-8082-8007-b51ba2f4430c",
+    "63e1c1ca-bbbb-8082-8007-b51ba2f1a821"
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b03189fc7000",
+  "name": "Location Link",
+  "type": "text",
+  "x": 1152,
+  "y": 229,
+  "width": 52,
+  "height": 17,
+  "rotation": 0,
+  "selrect": {
+    "x": 1152,
+    "y": 229,
+    "width": 52,
+    "height": 17,
+    "x1": 1152,
+    "y1": 229,
+    "x2": 1204,
+    "y2": 246
+  },
+  "points": [
+    {
+      "x": 1152,
+      "y": 229
+    },
+    {
+      "x": 1204,
+      "y": 229
+    },
+    {
+      "x": 1204,
+      "y": 246
+    },
+    {
+      "x": 1152,
+      "y": 246
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b03189dd5558",
+  "frameId": "3020c42d-f7eb-809c-8007-b03189dd5558",
+  "flipX": null,
+  "flipY": null,
+  "growType": "auto-width",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "sourcesanspro",
+                "fontSize": "14",
+                "fontWeight": "400",
+                "textDirection": "ltr",
+                "fontVariantId": "regular",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#757575",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "sourcesanspro",
+                "text": "Location"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "sourcesanspro",
+            "fontSize": "14",
+            "fontWeight": "400",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "regular",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#757575",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "sourcesanspro"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 1152,
+      "y": 246,
+      "width": 51.046875,
+      "height": 18,
+      "x1": 0,
+      "y1": -1,
+      "x2": 51.046875,
+      "y2": 17,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#757575",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "sourcesanspro",
+      "text": "Location"
+    }
+  ],
+  "pageId": "28716f1a-b249-8049-8007-b0276e464760"
+}

@@ -1,0 +1,143 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51ba28fb2a9",
+  "name": "N Garlic Bread",
+  "type": "text",
+  "x": 564,
+  "y": 668,
+  "width": 113,
+  "height": 20,
+  "rotation": 0,
+  "selrect": {
+    "x": 564,
+    "y": 668,
+    "width": 113,
+    "height": 20,
+    "x1": 564,
+    "y1": 668,
+    "x2": 677,
+    "y2": 688
+  },
+  "points": [
+    {
+      "x": 564,
+      "y": 668
+    },
+    {
+      "x": 677,
+      "y": 668
+    },
+    {
+      "x": 677,
+      "y": 688
+    },
+    {
+      "x": 564,
+      "y": 688
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51ba28739af",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51ba28739af",
+  "flipX": null,
+  "flipY": null,
+  "growType": "auto-width",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "gfont-cascadia-mono",
+                "fontSize": "16",
+                "fontWeight": "700",
+                "textDirection": "ltr",
+                "fontVariantId": "700",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#203436",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "Cascadia Mono",
+                "text": "Garlic Bread"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "gfont-cascadia-mono",
+            "fontSize": "16",
+            "fontWeight": "700",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "700",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#203436",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "Cascadia Mono"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 564,
+      "y": 687,
+      "width": 112.5,
+      "height": 19,
+      "x1": 0,
+      "y1": 0,
+      "x2": 112.5,
+      "y2": 19,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#203436",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "\"Cascadia Mono\"",
+      "text": "Garlic Bread"
+    }
+  ],
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51b1c45835a"
+}

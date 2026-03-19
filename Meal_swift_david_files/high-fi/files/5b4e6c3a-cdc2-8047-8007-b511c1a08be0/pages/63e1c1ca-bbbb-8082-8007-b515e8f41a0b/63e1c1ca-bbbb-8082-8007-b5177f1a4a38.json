@@ -1,0 +1,143 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b5177f1a4a38",
+  "name": "Logo",
+  "type": "text",
+  "x": 80,
+  "y": 24,
+  "width": 141,
+  "height": 29,
+  "rotation": 0,
+  "selrect": {
+    "x": 80,
+    "y": 24,
+    "width": 141,
+    "height": 29,
+    "x1": 80,
+    "y1": 24,
+    "x2": 221,
+    "y2": 53
+  },
+  "points": [
+    {
+      "x": 80,
+      "y": 24
+    },
+    {
+      "x": 221,
+      "y": 24
+    },
+    {
+      "x": 221,
+      "y": 53
+    },
+    {
+      "x": 80,
+      "y": 53
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b5177f07b3ae",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b5177f07b3ae",
+  "flipX": null,
+  "flipY": null,
+  "growType": "auto-width",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "gfont-cascadia-mono",
+                "fontSize": "24",
+                "fontWeight": "700",
+                "textDirection": "ltr",
+                "fontVariantId": "700",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#203436",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "Cascadia Mono",
+                "text": "MealSwift."
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "gfont-cascadia-mono",
+            "fontSize": "24",
+            "fontWeight": "700",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "700",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#203436",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "Cascadia Mono"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 80,
+      "y": 52,
+      "width": 140.625,
+      "height": 28,
+      "x1": 0,
+      "y1": 0,
+      "x2": 140.625,
+      "y2": 28,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "24px",
+      "fontWeight": "700",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#203436",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "\"Cascadia Mono\"",
+      "text": "MealSwift."
+    }
+  ],
+  "pageId": "63e1c1ca-bbbb-8082-8007-b515e8f41a0b"
+}

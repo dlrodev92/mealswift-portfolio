@@ -1,0 +1,74 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b03301c07a03",
+  "name": "Apple Icon",
+  "type": "rect",
+  "x": 1302,
+  "y": 545,
+  "width": 24,
+  "height": 24,
+  "rotation": 0,
+  "selrect": {
+    "x": 1302,
+    "y": 545,
+    "width": 24,
+    "height": 24,
+    "x1": 1302,
+    "y1": 545,
+    "x2": 1326,
+    "y2": 569
+  },
+  "points": [
+    {
+      "x": 1302,
+      "y": 545
+    },
+    {
+      "x": 1326,
+      "y": 545
+    },
+    {
+      "x": 1326,
+      "y": 569
+    },
+    {
+      "x": 1302,
+      "y": 569
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b033016d8db5",
+  "frameId": "3020c42d-f7eb-809c-8007-b033016d8db5",
+  "flipX": null,
+  "flipY": null,
+  "r2": 0,
+  "proportionLock": false,
+  "pageId": "3020c42d-f7eb-809c-8007-b03211245d7f",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillColor": "#e0e0e0",
+      "fillOpacity": 1
+    }
+  ]
+}

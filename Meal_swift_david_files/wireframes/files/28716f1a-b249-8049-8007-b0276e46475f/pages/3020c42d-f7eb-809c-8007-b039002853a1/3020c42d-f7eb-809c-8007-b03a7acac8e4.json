@@ -1,0 +1,74 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b03a7acac8e4",
+  "name": "Badge 24 \/ 7 Support",
+  "type": "rect",
+  "x": 1420,
+  "y": 886,
+  "width": 80,
+  "height": 40,
+  "rotation": 0,
+  "selrect": {
+    "x": 1420,
+    "y": 886,
+    "width": 80,
+    "height": 40,
+    "x1": 1420,
+    "y1": 886,
+    "x2": 1500,
+    "y2": 926
+  },
+  "points": [
+    {
+      "x": 1420,
+      "y": 886
+    },
+    {
+      "x": 1500,
+      "y": 886
+    },
+    {
+      "x": 1500,
+      "y": 926
+    },
+    {
+      "x": 1420,
+      "y": 926
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b03a7948cb3d",
+  "frameId": "3020c42d-f7eb-809c-8007-b03a7948cb3d",
+  "flipX": null,
+  "flipY": null,
+  "r2": 4,
+  "proportionLock": false,
+  "pageId": "3020c42d-f7eb-809c-8007-b039002853a1",
+  "r3": 4,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 4,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 4,
+  "fills": [
+    {
+      "fillColor": "#e0e0e0",
+      "fillOpacity": 1
+    }
+  ]
+}

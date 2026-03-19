@@ -1,0 +1,99 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51f01b1a31d",
+  "name": "Footer",
+  "type": "frame",
+  "x": 0,
+  "y": 1270,
+  "width": 1440,
+  "height": 279.99999999999955,
+  "rotation": 0,
+  "selrect": {
+    "x": 0,
+    "y": 1270,
+    "width": 1440,
+    "height": 279.99999999999955,
+    "x1": 0,
+    "y1": 1270,
+    "x2": 1440,
+    "y2": 1549.9999999999995
+  },
+  "points": [
+    {
+      "x": 0,
+      "y": 1270
+    },
+    {
+      "x": 1440,
+      "y": 1270
+    },
+    {
+      "x": 1440,
+      "y": 1549.9999999999995
+    },
+    {
+      "x": 0,
+      "y": 1549.9999999999995
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51e785145a6",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51e785145a6",
+  "flipX": null,
+  "flipY": null,
+  "hideFillOnExport": false,
+  "hideInViewer": true,
+  "r2": 0,
+  "showContent": false,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51e72827203",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillColor": "#203436",
+      "fillOpacity": 1
+    }
+  ],
+  "shapes": [
+    "63e1c1ca-bbbb-8082-8007-b51f02182f47",
+    "63e1c1ca-bbbb-8082-8007-b51f0214eeb9",
+    "63e1c1ca-bbbb-8082-8007-b51f02102a2f",
+    "63e1c1ca-bbbb-8082-8007-b51f020c1e43",
+    "63e1c1ca-bbbb-8082-8007-b51f020823fe",
+    "63e1c1ca-bbbb-8082-8007-b51f02026d4d",
+    "63e1c1ca-bbbb-8082-8007-b51f01fe130d",
+    "63e1c1ca-bbbb-8082-8007-b51f01f98cff",
+    "63e1c1ca-bbbb-8082-8007-b51f01f53564",
+    "63e1c1ca-bbbb-8082-8007-b51f01f12cfd",
+    "63e1c1ca-bbbb-8082-8007-b51f01ecc79c",
+    "63e1c1ca-bbbb-8082-8007-b51f01e8d9de",
+    "63e1c1ca-bbbb-8082-8007-b51f01e45e84",
+    "63e1c1ca-bbbb-8082-8007-b51f01dff6c0",
+    "63e1c1ca-bbbb-8082-8007-b51f01da9bb7",
+    "63e1c1ca-bbbb-8082-8007-b51f01d40a72",
+    "63e1c1ca-bbbb-8082-8007-b51f01ce09d3",
+    "63e1c1ca-bbbb-8082-8007-b51f01c7dc16",
+    "63e1c1ca-bbbb-8082-8007-b51f01be6857",
+    "63e1c1ca-bbbb-8082-8007-b51f01b6d1ab"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b03a796e3664",
+  "name": "Prog Line 2",
+  "type": "rect",
+  "x": 932,
+  "y": 302,
+  "width": 176,
+  "height": 2,
+  "rotation": 0,
+  "selrect": {
+    "x": 932,
+    "y": 302,
+    "width": 176,
+    "height": 2,
+    "x1": 932,
+    "y1": 302,
+    "x2": 1108,
+    "y2": 304
+  },
+  "points": [
+    {
+      "x": 932,
+      "y": 302
+    },
+    {
+      "x": 1108,
+      "y": 302
+    },
+    {
+      "x": 1108,
+      "y": 304
+    },
+    {
+      "x": 932,
+      "y": 304
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b03a7948cb3d",
+  "frameId": "3020c42d-f7eb-809c-8007-b03a7948cb3d",
+  "flipX": null,
+  "flipY": null,
+  "r2": 0,
+  "proportionLock": false,
+  "pageId": "3020c42d-f7eb-809c-8007-b039002853a1",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillColor": "#e0e0e0",
+      "fillOpacity": 1
+    }
+  ]
+}

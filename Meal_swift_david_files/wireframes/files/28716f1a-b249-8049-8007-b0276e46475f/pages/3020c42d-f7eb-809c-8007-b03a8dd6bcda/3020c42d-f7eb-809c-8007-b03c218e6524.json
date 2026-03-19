@@ -1,0 +1,80 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b03c218e6524",
+  "name": "Driver Card",
+  "type": "rect",
+  "x": 220,
+  "y": 1040,
+  "width": 820,
+  "height": 116,
+  "rotation": 0,
+  "selrect": {
+    "x": 220,
+    "y": 1040,
+    "width": 820,
+    "height": 116,
+    "x1": 220,
+    "y1": 1040,
+    "x2": 1040,
+    "y2": 1156
+  },
+  "points": [
+    {
+      "x": 220,
+      "y": 1040
+    },
+    {
+      "x": 1040,
+      "y": 1040
+    },
+    {
+      "x": 1040,
+      "y": 1156
+    },
+    {
+      "x": 220,
+      "y": 1156
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b03c211d5978",
+  "frameId": "3020c42d-f7eb-809c-8007-b03c211d5978",
+  "flipX": null,
+  "flipY": null,
+  "r2": 8,
+  "proportionLock": false,
+  "pageId": "3020c42d-f7eb-809c-8007-b03a8dd6bcda",
+  "r3": 8,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 8,
+  "strokes": [
+    {
+      "strokeColor": "#e0e0e0",
+      "strokeOpacity": 1,
+      "strokeWidth": 1
+    }
+  ],
+  "proportion": 1,
+  "r4": 8,
+  "fills": [
+    {
+      "fillColor": "#ffffff",
+      "fillOpacity": 1
+    }
+  ]
+}

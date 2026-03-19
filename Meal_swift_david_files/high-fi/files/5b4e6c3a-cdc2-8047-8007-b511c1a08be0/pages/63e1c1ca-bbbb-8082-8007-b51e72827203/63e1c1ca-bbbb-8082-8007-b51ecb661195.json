@@ -1,0 +1,105 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51ecb661195",
+  "name": "Countdown Card",
+  "type": "frame",
+  "x": 972,
+  "y": 462,
+  "width": 400,
+  "height": 180,
+  "rotation": 0,
+  "selrect": {
+    "x": 972,
+    "y": 462,
+    "width": 400,
+    "height": 180,
+    "x1": 972,
+    "y1": 462,
+    "x2": 1372,
+    "y2": 642
+  },
+  "points": [
+    {
+      "x": 972,
+      "y": 462
+    },
+    {
+      "x": 1372,
+      "y": 462
+    },
+    {
+      "x": 1372,
+      "y": 642
+    },
+    {
+      "x": 972,
+      "y": 642
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51e785145a6",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51e785145a6",
+  "flipX": null,
+  "flipY": null,
+  "hideFillOnExport": false,
+  "hideInViewer": true,
+  "r2": 12,
+  "showContent": false,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51e72827203",
+  "r3": 12,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 12,
+  "strokes": [
+    {
+      "strokeColor": "#e0e0e0",
+      "strokeOpacity": 1,
+      "strokeWidth": 1
+    }
+  ],
+  "proportion": 1,
+  "shadow": [
+    {
+      "id": "63e1c1ca-bbbb-8082-8007-b51ecb6d6299",
+      "style": "drop-shadow",
+      "color": {
+        "color": "#000000",
+        "opacity": 0.06
+      },
+      "offsetX": 0,
+      "offsetY": 2,
+      "blur": 8,
+      "spread": 0,
+      "hidden": false
+    }
+  ],
+  "r4": 12,
+  "fills": [
+    {
+      "fillColor": "#ffffff",
+      "fillOpacity": 1
+    }
+  ],
+  "shapes": [
+    "63e1c1ca-bbbb-8082-8007-b51ecb88bc40",
+    "63e1c1ca-bbbb-8082-8007-b51ecb840b9c",
+    "63e1c1ca-bbbb-8082-8007-b51ecb7e95c1",
+    "63e1c1ca-bbbb-8082-8007-b51ecb76836b",
+    "63e1c1ca-bbbb-8082-8007-b51ecb6f062b"
+  ]
+}

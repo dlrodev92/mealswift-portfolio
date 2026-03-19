@@ -1,0 +1,74 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b514853a4c3d",
+  "name": "Social Icon 3",
+  "type": "rect",
+  "x": 160,
+  "y": 2168,
+  "width": 32,
+  "height": 32,
+  "rotation": 0,
+  "selrect": {
+    "x": 160,
+    "y": 2168,
+    "width": 32,
+    "height": 32,
+    "x1": 160,
+    "y1": 2168,
+    "x2": 192,
+    "y2": 2200
+  },
+  "points": [
+    {
+      "x": 160,
+      "y": 2168
+    },
+    {
+      "x": 192,
+      "y": 2168
+    },
+    {
+      "x": 192,
+      "y": 2200
+    },
+    {
+      "x": 160,
+      "y": 2200
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b5148514b361",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b5148514b361",
+  "flipX": null,
+  "flipY": null,
+  "r2": 6,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51248ccbd17",
+  "r3": 6,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 6,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 6,
+  "fills": [
+    {
+      "fillColor": "#757575",
+      "fillOpacity": 1
+    }
+  ]
+}

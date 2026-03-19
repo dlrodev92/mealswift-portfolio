@@ -1,0 +1,74 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b0378330328d",
+  "name": "BR Fil 1",
+  "type": "rect",
+  "x": 290,
+  "y": 2869,
+  "width": 20,
+  "height": 10,
+  "rotation": 0,
+  "selrect": {
+    "x": 290,
+    "y": 2869,
+    "width": 20,
+    "height": 10,
+    "x1": 290,
+    "y1": 2869,
+    "x2": 310,
+    "y2": 2879
+  },
+  "points": [
+    {
+      "x": 290,
+      "y": 2869
+    },
+    {
+      "x": 310,
+      "y": 2869
+    },
+    {
+      "x": 310,
+      "y": 2879
+    },
+    {
+      "x": 290,
+      "y": 2879
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b0377f5282d9",
+  "frameId": "3020c42d-f7eb-809c-8007-b0377f5282d9",
+  "flipX": null,
+  "flipY": null,
+  "r2": 5,
+  "proportionLock": false,
+  "pageId": "3020c42d-f7eb-809c-8007-b036d76a3bf9",
+  "r3": 5,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 5,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 5,
+  "fills": [
+    {
+      "fillColor": "#bdbdbd",
+      "fillOpacity": 1
+    }
+  ]
+}

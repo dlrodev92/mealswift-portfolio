@@ -1,0 +1,28 @@
+/* ─── WIREFRAMES ─────────────────────────────────────────────────────────────
+   4-column grid of wireframe image cards.
+   ─────────────────────────────────────────────────────────────────────────── */
+
+.wireframes__grid {
+  display:               grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap:                   var(--space-md);
+}
+
+/* Height override for wireframe images (base.css default is 280px — no change needed,
+   but explicit here for clarity per spec) */
+.wireframes__grid .img-card img {
+  height: 280px;
+}
+
+/* ── Responsive ── */
+@media (max-width: 1100px) {
+  .wireframes__grid { grid-template-columns: repeat(3, 1fr); }
+}
+
+@media (max-width: 768px) {
+  .wireframes__grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 480px) {
+  .wireframes__grid { grid-template-columns: 1fr; }
+}

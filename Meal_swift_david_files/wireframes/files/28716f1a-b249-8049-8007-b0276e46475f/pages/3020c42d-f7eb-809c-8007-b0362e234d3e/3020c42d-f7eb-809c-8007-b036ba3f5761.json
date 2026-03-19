@@ -1,0 +1,143 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b036ba3f5761",
+  "name": "Delivery Hd",
+  "type": "text",
+  "x": 220,
+  "y": 804,
+  "width": 75,
+  "height": 16,
+  "rotation": 0,
+  "selrect": {
+    "x": 220,
+    "y": 804,
+    "width": 75,
+    "height": 16,
+    "x1": 220,
+    "y1": 804,
+    "x2": 295,
+    "y2": 820
+  },
+  "points": [
+    {
+      "x": 220,
+      "y": 804
+    },
+    {
+      "x": 295,
+      "y": 804
+    },
+    {
+      "x": 295,
+      "y": 820
+    },
+    {
+      "x": 220,
+      "y": 820
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b036b98e5508",
+  "frameId": "3020c42d-f7eb-809c-8007-b036b98e5508",
+  "flipX": null,
+  "flipY": null,
+  "growType": "auto-width",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "sourcesanspro",
+                "fontSize": "13",
+                "fontWeight": "400",
+                "textDirection": "ltr",
+                "fontVariantId": "regular",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#212121",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "sourcesanspro",
+                "text": "Delivery Time"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "sourcesanspro",
+            "fontSize": "13",
+            "fontWeight": "400",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "regular",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#212121",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "sourcesanspro"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 220,
+      "y": 819,
+      "width": 74.21875,
+      "height": 16,
+      "x1": 0,
+      "y1": -1,
+      "x2": 74.21875,
+      "y2": 15,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "13px",
+      "fontWeight": "400",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#212121",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "sourcesanspro",
+      "text": "Delivery Time"
+    }
+  ],
+  "pageId": "3020c42d-f7eb-809c-8007-b0362e234d3e"
+}

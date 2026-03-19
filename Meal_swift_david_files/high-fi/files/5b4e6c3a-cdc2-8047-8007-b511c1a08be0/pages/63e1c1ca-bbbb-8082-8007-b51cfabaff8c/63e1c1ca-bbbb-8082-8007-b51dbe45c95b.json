@@ -1,0 +1,143 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51dbe45c95b",
+  "name": "Text",
+  "type": "text",
+  "x": 984,
+  "y": 624,
+  "width": 254,
+  "height": 14,
+  "rotation": 0,
+  "selrect": {
+    "x": 984,
+    "y": 624,
+    "width": 254,
+    "height": 14,
+    "x1": 984,
+    "y1": 624,
+    "x2": 1238,
+    "y2": 638
+  },
+  "points": [
+    {
+      "x": 984,
+      "y": 624
+    },
+    {
+      "x": 1238,
+      "y": 624
+    },
+    {
+      "x": 1238,
+      "y": 638
+    },
+    {
+      "x": 984,
+      "y": 638
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51dbd9618d4",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51dbd9618d4",
+  "flipX": null,
+  "flipY": null,
+  "growType": "auto-width",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "sourcesanspro",
+                "fontSize": "11",
+                "fontWeight": "400",
+                "textDirection": "ltr",
+                "fontVariantId": "regular",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#9e9e9e",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "sourcesanspro",
+                "text": "\ud83d\udd12 Secure Payment  \u2022  Free cancellation  \u2022  24\/7 Support"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "sourcesanspro",
+            "fontSize": "11",
+            "fontWeight": "400",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "regular",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#9e9e9e",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "sourcesanspro"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 984,
+      "y": 637,
+      "width": 253.4375,
+      "height": 14,
+      "x1": 0,
+      "y1": -1,
+      "x2": 253.4375,
+      "y2": 13,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "11px",
+      "fontWeight": "400",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#9e9e9e",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "sourcesanspro",
+      "text": "\ud83d\udd12 Secure Payment  \u2022  Free cancellation  \u2022  24\/7 Support"
+    }
+  ],
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51cfabaff8c"
+}

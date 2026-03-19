@@ -1,0 +1,143 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51d6cbf1fdb",
+  "name": "Text",
+  "type": "text",
+  "x": 80,
+  "y": 22,
+  "width": 98,
+  "height": 27,
+  "rotation": 0,
+  "selrect": {
+    "x": 80,
+    "y": 22,
+    "width": 98,
+    "height": 27,
+    "x1": 80,
+    "y1": 22,
+    "x2": 178,
+    "y2": 49
+  },
+  "points": [
+    {
+      "x": 80,
+      "y": 22
+    },
+    {
+      "x": 178,
+      "y": 22
+    },
+    {
+      "x": 178,
+      "y": 49
+    },
+    {
+      "x": 80,
+      "y": 49
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51d6cbbab79",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51d6cbbab79",
+  "flipX": null,
+  "flipY": null,
+  "growType": "auto-width",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "sourcesanspro",
+                "fontSize": "22",
+                "fontWeight": "700",
+                "textDirection": "ltr",
+                "fontVariantId": "bold",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#288ec1",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "sourcesanspro",
+                "text": "MealSwift"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "sourcesanspro",
+            "fontSize": "22",
+            "fontWeight": "700",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "bold",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#288ec1",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "sourcesanspro"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 80,
+      "y": 50,
+      "width": 97.21875,
+      "height": 30,
+      "x1": 0,
+      "y1": -2,
+      "x2": 97.21875,
+      "y2": 28,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "22px",
+      "fontWeight": "700",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#288ec1",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "sourcesanspro",
+      "text": "MealSwift"
+    }
+  ],
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51cfabaff8c"
+}

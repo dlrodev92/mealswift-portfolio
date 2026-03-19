@@ -1,0 +1,143 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b0378409b2cc",
+  "name": "Checkout L",
+  "type": "text",
+  "x": 1242,
+  "y": 1231,
+  "width": 336,
+  "height": 22,
+  "rotation": 0,
+  "selrect": {
+    "x": 1242,
+    "y": 1231,
+    "width": 336,
+    "height": 22,
+    "x1": 1242,
+    "y1": 1231,
+    "x2": 1578,
+    "y2": 1253
+  },
+  "points": [
+    {
+      "x": 1242,
+      "y": 1231
+    },
+    {
+      "x": 1578,
+      "y": 1231
+    },
+    {
+      "x": 1578,
+      "y": 1253
+    },
+    {
+      "x": 1242,
+      "y": 1253
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b0377f5282d9",
+  "frameId": "3020c42d-f7eb-809c-8007-b0377f5282d9",
+  "flipX": null,
+  "flipY": null,
+  "growType": "fixed",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "sourcesanspro",
+                "fontSize": "15",
+                "fontWeight": "400",
+                "textDirection": "ltr",
+                "fontVariantId": "regular",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#ffffff",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "sourcesanspro",
+                "text": "Proceed to Checkout"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "center",
+            "fontId": "sourcesanspro",
+            "fontSize": "15",
+            "fontWeight": "400",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "regular",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#ffffff",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "sourcesanspro"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 1344.9375,
+      "y": 1249,
+      "width": 130.125,
+      "height": 19,
+      "x1": 102.9375,
+      "y1": -1,
+      "x2": 233.0625,
+      "y2": 18,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#ffffff",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "sourcesanspro",
+      "text": "Proceed to Checkout"
+    }
+  ],
+  "pageId": "3020c42d-f7eb-809c-8007-b036d76a3bf9"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b03301ebe551",
+  "name": "Sign In Btn",
+  "type": "rect",
+  "x": 1040,
+  "y": 828,
+  "width": 480,
+  "height": 52,
+  "rotation": 0,
+  "selrect": {
+    "x": 1040,
+    "y": 828,
+    "width": 480,
+    "height": 52,
+    "x1": 1040,
+    "y1": 828,
+    "x2": 1520,
+    "y2": 880
+  },
+  "points": [
+    {
+      "x": 1040,
+      "y": 828
+    },
+    {
+      "x": 1520,
+      "y": 828
+    },
+    {
+      "x": 1520,
+      "y": 880
+    },
+    {
+      "x": 1040,
+      "y": 880
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b033016d8db5",
+  "frameId": "3020c42d-f7eb-809c-8007-b033016d8db5",
+  "flipX": null,
+  "flipY": null,
+  "r2": 6,
+  "proportionLock": false,
+  "pageId": "3020c42d-f7eb-809c-8007-b03211245d7f",
+  "r3": 6,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 6,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 6,
+  "fills": [
+    {
+      "fillColor": "#424242",
+      "fillOpacity": 1
+    }
+  ]
+}

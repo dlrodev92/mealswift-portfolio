@@ -1,0 +1,143 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b512c3bdc16d",
+  "name": "Hero Search Text",
+  "type": "text",
+  "x": 436,
+  "y": 238,
+  "width": 264,
+  "height": 18,
+  "rotation": 0,
+  "selrect": {
+    "x": 436,
+    "y": 238,
+    "width": 264,
+    "height": 18,
+    "x1": 436,
+    "y1": 238,
+    "x2": 700,
+    "y2": 256
+  },
+  "points": [
+    {
+      "x": 436,
+      "y": 238
+    },
+    {
+      "x": 700,
+      "y": 238
+    },
+    {
+      "x": 700,
+      "y": 256
+    },
+    {
+      "x": 436,
+      "y": 256
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b512c39333dd",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b512c39333dd",
+  "flipX": null,
+  "flipY": null,
+  "growType": "auto-width",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "gfont-cascadia-mono",
+                "fontSize": "15",
+                "fontWeight": "400",
+                "textDirection": "ltr",
+                "fontVariantId": "regular",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#bdbdbd",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "Cascadia Mono",
+                "text": "Enter your postcode or dish..."
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "gfont-cascadia-mono",
+            "fontSize": "15",
+            "fontWeight": "400",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "regular",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#bdbdbd",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "Cascadia Mono"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 436,
+      "y": 256,
+      "width": 263.671875,
+      "height": 18,
+      "x1": 0,
+      "y1": 0,
+      "x2": 263.671875,
+      "y2": 18,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#bdbdbd",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "\"Cascadia Mono\"",
+      "text": "Enter your postcode or dish..."
+    }
+  ],
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51248ccbd17"
+}

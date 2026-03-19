@@ -1,0 +1,88 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51ee55690da",
+  "name": "Rate Order Card",
+  "type": "frame",
+  "x": 972,
+  "y": 970,
+  "width": 400,
+  "height": 160,
+  "rotation": 0,
+  "selrect": {
+    "x": 972,
+    "y": 970,
+    "width": 400,
+    "height": 160,
+    "x1": 972,
+    "y1": 970,
+    "x2": 1372,
+    "y2": 1130
+  },
+  "points": [
+    {
+      "x": 972,
+      "y": 970
+    },
+    {
+      "x": 1372,
+      "y": 970
+    },
+    {
+      "x": 1372,
+      "y": 1130
+    },
+    {
+      "x": 972,
+      "y": 1130
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51e785145a6",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51e785145a6",
+  "flipX": null,
+  "flipY": null,
+  "hideFillOnExport": false,
+  "hideInViewer": true,
+  "r2": 12,
+  "showContent": false,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51e72827203",
+  "r3": 12,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 12,
+  "strokes": [
+    {
+      "strokeColor": "#e0e0e0",
+      "strokeOpacity": 1,
+      "strokeWidth": 1
+    }
+  ],
+  "proportion": 1,
+  "r4": 12,
+  "fills": [
+    {
+      "fillColor": "#f9f9f9",
+      "fillOpacity": 1
+    }
+  ],
+  "shapes": [
+    "63e1c1ca-bbbb-8082-8007-b51ee56551b4",
+    "63e1c1ca-bbbb-8082-8007-b51ee5603e5b",
+    "63e1c1ca-bbbb-8082-8007-b51ee55b9a68"
+  ]
+}

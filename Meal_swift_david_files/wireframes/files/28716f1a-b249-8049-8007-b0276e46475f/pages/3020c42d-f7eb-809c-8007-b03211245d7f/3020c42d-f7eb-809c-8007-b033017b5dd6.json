@@ -1,0 +1,74 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b033017b5dd6",
+  "name": "Nav Logo",
+  "type": "rect",
+  "x": 240,
+  "y": 220,
+  "width": 120,
+  "height": 32,
+  "rotation": 0,
+  "selrect": {
+    "x": 240,
+    "y": 220,
+    "width": 120,
+    "height": 32,
+    "x1": 240,
+    "y1": 220,
+    "x2": 360,
+    "y2": 252
+  },
+  "points": [
+    {
+      "x": 240,
+      "y": 220
+    },
+    {
+      "x": 360,
+      "y": 220
+    },
+    {
+      "x": 360,
+      "y": 252
+    },
+    {
+      "x": 240,
+      "y": 252
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b033016d8db5",
+  "frameId": "3020c42d-f7eb-809c-8007-b033016d8db5",
+  "flipX": null,
+  "flipY": null,
+  "r2": 0,
+  "proportionLock": false,
+  "pageId": "3020c42d-f7eb-809c-8007-b03211245d7f",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillColor": "#e0e0e0",
+      "fillOpacity": 1
+    }
+  ]
+}

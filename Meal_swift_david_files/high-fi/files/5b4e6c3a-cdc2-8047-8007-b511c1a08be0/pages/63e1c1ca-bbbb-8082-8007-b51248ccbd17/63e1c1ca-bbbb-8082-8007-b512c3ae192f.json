@@ -1,0 +1,143 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b512c3ae192f",
+  "name": "Hero Subtext",
+  "type": "text",
+  "x": 450,
+  "y": 182,
+  "width": 380,
+  "height": 22,
+  "rotation": 0,
+  "selrect": {
+    "x": 450,
+    "y": 182,
+    "width": 380,
+    "height": 22,
+    "x1": 450,
+    "y1": 182,
+    "x2": 830,
+    "y2": 204
+  },
+  "points": [
+    {
+      "x": 450,
+      "y": 182
+    },
+    {
+      "x": 830,
+      "y": 182
+    },
+    {
+      "x": 830,
+      "y": 204
+    },
+    {
+      "x": 450,
+      "y": 204
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b512c39333dd",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b512c39333dd",
+  "flipX": null,
+  "flipY": null,
+  "growType": "auto-width",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "gfont-cascadia-mono",
+                "fontSize": "18",
+                "fontWeight": "400",
+                "textDirection": "ltr",
+                "fontVariantId": "regular",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#e0e0e0",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "Cascadia Mono",
+                "text": "Order from 200+ restaurants near you"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "gfont-cascadia-mono",
+            "fontSize": "18",
+            "fontWeight": "400",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "regular",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#e0e0e0",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "Cascadia Mono"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 450,
+      "y": 203,
+      "width": 379.6875,
+      "height": 21,
+      "x1": 0,
+      "y1": 0,
+      "x2": 379.6875,
+      "y2": 21,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#e0e0e0",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "\"Cascadia Mono\"",
+      "text": "Order from 200+ restaurants near you"
+    }
+  ],
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51248ccbd17"
+}

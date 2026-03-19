@@ -1,0 +1,81 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b516594af8ed",
+  "name": "Left BG Image",
+  "type": "rect",
+  "x": 0,
+  "y": 72,
+  "width": 720,
+  "height": 827.9999999999999,
+  "rotation": 0,
+  "selrect": {
+    "x": 0,
+    "y": 72,
+    "width": 720,
+    "height": 827.9999999999999,
+    "x1": 0,
+    "y1": 72,
+    "x2": 720,
+    "y2": 899.9999999999999
+  },
+  "points": [
+    {
+      "x": 0,
+      "y": 72
+    },
+    {
+      "x": 720,
+      "y": 72
+    },
+    {
+      "x": 720,
+      "y": 899.9999999999999
+    },
+    {
+      "x": 0,
+      "y": 899.9999999999999
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b5165934ea4d",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b5165934ea4d",
+  "flipX": null,
+  "flipY": null,
+  "r2": 0,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51248ccbd17",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillOpacity": 1,
+      "fillImage": {
+        "id": "5b4e6c3a-cdc2-8047-8007-b51660a74ab5",
+        "name": "login-bg",
+        "width": 720,
+        "height": 480,
+        "mtype": "image\/jpeg",
+        "keepAspectRatio": false
+      }
+    }
+  ]
+}

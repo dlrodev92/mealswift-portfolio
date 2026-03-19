@@ -1,0 +1,74 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b036b9c6847d",
+  "name": "Sort Dropdown",
+  "type": "rect",
+  "x": 1400,
+  "y": 288,
+  "width": 200,
+  "height": 40,
+  "rotation": 0,
+  "selrect": {
+    "x": 1400,
+    "y": 288,
+    "width": 200,
+    "height": 40,
+    "x1": 1400,
+    "y1": 288,
+    "x2": 1600,
+    "y2": 328
+  },
+  "points": [
+    {
+      "x": 1400,
+      "y": 288
+    },
+    {
+      "x": 1600,
+      "y": 288
+    },
+    {
+      "x": 1600,
+      "y": 328
+    },
+    {
+      "x": 1400,
+      "y": 328
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b036b98e5508",
+  "frameId": "3020c42d-f7eb-809c-8007-b036b98e5508",
+  "flipX": null,
+  "flipY": null,
+  "r2": 6,
+  "proportionLock": false,
+  "pageId": "3020c42d-f7eb-809c-8007-b0362e234d3e",
+  "r3": 6,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 6,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 6,
+  "fills": [
+    {
+      "fillColor": "#e0e0e0",
+      "fillOpacity": 1
+    }
+  ]
+}

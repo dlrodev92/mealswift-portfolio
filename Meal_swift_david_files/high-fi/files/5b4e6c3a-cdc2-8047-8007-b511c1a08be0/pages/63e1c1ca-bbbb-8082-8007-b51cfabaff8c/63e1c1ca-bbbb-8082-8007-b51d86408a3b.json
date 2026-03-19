@@ -1,0 +1,143 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51d86408a3b",
+  "name": "Text",
+  "type": "text",
+  "x": 516,
+  "y": 397,
+  "width": 54,
+  "height": 17,
+  "rotation": 0,
+  "selrect": {
+    "x": 516,
+    "y": 397,
+    "width": 54,
+    "height": 17,
+    "x1": 516,
+    "y1": 397,
+    "x2": 570,
+    "y2": 414
+  },
+  "points": [
+    {
+      "x": 516,
+      "y": 397
+    },
+    {
+      "x": 570,
+      "y": 397
+    },
+    {
+      "x": 570,
+      "y": 414
+    },
+    {
+      "x": 516,
+      "y": 414
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51d85f5f183",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51d85f5f183",
+  "flipX": null,
+  "flipY": null,
+  "growType": "auto-width",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "sourcesanspro",
+                "fontSize": "14",
+                "fontWeight": "400",
+                "textDirection": "ltr",
+                "fontVariantId": "regular",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#9e9e9e",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "sourcesanspro",
+                "text": "NY 10001"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "sourcesanspro",
+            "fontSize": "14",
+            "fontWeight": "400",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "regular",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#9e9e9e",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "sourcesanspro"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 516,
+      "y": 414,
+      "width": 53.3125,
+      "height": 18,
+      "x1": 0,
+      "y1": -1,
+      "x2": 53.3125,
+      "y2": 17,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#9e9e9e",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "sourcesanspro",
+      "text": "NY 10001"
+    }
+  ],
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51cfabaff8c"
+}

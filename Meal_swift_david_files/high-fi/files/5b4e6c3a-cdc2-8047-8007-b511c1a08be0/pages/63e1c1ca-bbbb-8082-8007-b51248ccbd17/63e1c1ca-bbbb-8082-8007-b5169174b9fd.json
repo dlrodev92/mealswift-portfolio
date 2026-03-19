@@ -1,0 +1,80 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b5169174b9fd",
+  "name": "Checkbox",
+  "type": "rect",
+  "x": 840,
+  "y": 560,
+  "width": 16,
+  "height": 16,
+  "rotation": 0,
+  "selrect": {
+    "x": 840,
+    "y": 560,
+    "width": 16,
+    "height": 16,
+    "x1": 840,
+    "y1": 560,
+    "x2": 856,
+    "y2": 576
+  },
+  "points": [
+    {
+      "x": 840,
+      "y": 560
+    },
+    {
+      "x": 856,
+      "y": 560
+    },
+    {
+      "x": 856,
+      "y": 576
+    },
+    {
+      "x": 840,
+      "y": 576
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b5167daf59e6",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b5167daf59e6",
+  "flipX": null,
+  "flipY": null,
+  "r2": 3,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51248ccbd17",
+  "r3": 3,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 3,
+  "strokes": [
+    {
+      "strokeColor": "#e0e0e0",
+      "strokeOpacity": 1,
+      "strokeWidth": 1
+    }
+  ],
+  "proportion": 1,
+  "r4": 3,
+  "fills": [
+    {
+      "fillColor": "#ffffff",
+      "fillOpacity": 1
+    }
+  ]
+}

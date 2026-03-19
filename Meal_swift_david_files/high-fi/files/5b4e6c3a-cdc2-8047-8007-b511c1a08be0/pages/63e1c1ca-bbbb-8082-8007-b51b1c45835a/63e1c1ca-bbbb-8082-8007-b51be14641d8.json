@@ -1,0 +1,70 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51be14641d8",
+  "name": "Avatar Maria L.",
+  "type": "circle",
+  "x": 48,
+  "y": 2580,
+  "width": 40,
+  "height": 40,
+  "rotation": 0,
+  "selrect": {
+    "x": 48,
+    "y": 2580,
+    "width": 40,
+    "height": 40,
+    "x1": 48,
+    "y1": 2580,
+    "x2": 88,
+    "y2": 2620
+  },
+  "points": [
+    {
+      "x": 48,
+      "y": 2580
+    },
+    {
+      "x": 88,
+      "y": 2580
+    },
+    {
+      "x": 88,
+      "y": 2620
+    },
+    {
+      "x": 48,
+      "y": 2620
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51ba25098aa",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51ba25098aa",
+  "flipX": null,
+  "flipY": null,
+  "proportionLock": false,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "strokes": [],
+  "proportion": 1,
+  "fills": [
+    {
+      "fillColor": "#288ec1",
+      "fillOpacity": 1
+    }
+  ],
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51b1c45835a"
+}

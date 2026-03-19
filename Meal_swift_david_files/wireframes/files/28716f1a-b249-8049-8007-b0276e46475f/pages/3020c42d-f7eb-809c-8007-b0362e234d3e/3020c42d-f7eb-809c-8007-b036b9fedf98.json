@@ -1,0 +1,143 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b036b9fedf98",
+  "name": "CB Lbl Burgers",
+  "type": "text",
+  "x": 242,
+  "y": 512,
+  "width": 42,
+  "height": 16,
+  "rotation": 0,
+  "selrect": {
+    "x": 242,
+    "y": 512,
+    "width": 42,
+    "height": 16,
+    "x1": 242,
+    "y1": 512,
+    "x2": 284,
+    "y2": 528
+  },
+  "points": [
+    {
+      "x": 242,
+      "y": 512
+    },
+    {
+      "x": 284,
+      "y": 512
+    },
+    {
+      "x": 284,
+      "y": 528
+    },
+    {
+      "x": 242,
+      "y": 528
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b036b98e5508",
+  "frameId": "3020c42d-f7eb-809c-8007-b036b98e5508",
+  "flipX": null,
+  "flipY": null,
+  "growType": "auto-width",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "sourcesanspro",
+                "fontSize": "13",
+                "fontWeight": "400",
+                "textDirection": "ltr",
+                "fontVariantId": "regular",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#212121",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "sourcesanspro",
+                "text": "Burgers"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "sourcesanspro",
+            "fontSize": "13",
+            "fontWeight": "400",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "regular",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#212121",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "sourcesanspro"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 242,
+      "y": 527,
+      "width": 41.734375,
+      "height": 16,
+      "x1": 0,
+      "y1": -1,
+      "x2": 41.734375,
+      "y2": 15,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "13px",
+      "fontWeight": "400",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#212121",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "sourcesanspro",
+      "text": "Burgers"
+    }
+  ],
+  "pageId": "3020c42d-f7eb-809c-8007-b0362e234d3e"
+}

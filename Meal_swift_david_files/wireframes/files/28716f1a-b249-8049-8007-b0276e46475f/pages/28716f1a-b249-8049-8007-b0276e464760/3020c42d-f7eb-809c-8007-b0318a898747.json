@@ -1,0 +1,143 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b0318a898747",
+  "name": "Featured Title",
+  "type": "text",
+  "x": 260,
+  "y": 902,
+  "width": 250,
+  "height": 34,
+  "rotation": 0,
+  "selrect": {
+    "x": 260,
+    "y": 902,
+    "width": 250,
+    "height": 34,
+    "x1": 260,
+    "y1": 902,
+    "x2": 510,
+    "y2": 936
+  },
+  "points": [
+    {
+      "x": 260,
+      "y": 902
+    },
+    {
+      "x": 510,
+      "y": 902
+    },
+    {
+      "x": 510,
+      "y": 936
+    },
+    {
+      "x": 260,
+      "y": 936
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b03189dd5558",
+  "frameId": "3020c42d-f7eb-809c-8007-b03189dd5558",
+  "flipX": null,
+  "flipY": null,
+  "growType": "auto-width",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "sourcesanspro",
+                "fontSize": "28",
+                "fontWeight": "400",
+                "textDirection": "ltr",
+                "fontVariantId": "regular",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#212121",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "sourcesanspro",
+                "text": "Restaurants Near You"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "sourcesanspro",
+            "fontSize": "28",
+            "fontWeight": "400",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "regular",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#212121",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "sourcesanspro"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 260,
+      "y": 937,
+      "width": 249.453125,
+      "height": 37,
+      "x1": 0,
+      "y1": -2,
+      "x2": 249.453125,
+      "y2": 35,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "28px",
+      "fontWeight": "400",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#212121",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "sourcesanspro",
+      "text": "Restaurants Near You"
+    }
+  ],
+  "pageId": "28716f1a-b249-8049-8007-b0276e464760"
+}

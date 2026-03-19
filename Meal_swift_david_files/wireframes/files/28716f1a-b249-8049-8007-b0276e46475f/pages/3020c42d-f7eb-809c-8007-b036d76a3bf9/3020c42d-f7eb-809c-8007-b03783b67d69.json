@@ -1,0 +1,143 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b03783b67d69",
+  "name": "Empty Sub",
+  "type": "text",
+  "x": 1242,
+  "y": 986,
+  "width": 336,
+  "height": 18,
+  "rotation": 0,
+  "selrect": {
+    "x": 1242,
+    "y": 986,
+    "width": 336,
+    "height": 18,
+    "x1": 1242,
+    "y1": 986,
+    "x2": 1578,
+    "y2": 1004
+  },
+  "points": [
+    {
+      "x": 1242,
+      "y": 986
+    },
+    {
+      "x": 1578,
+      "y": 986
+    },
+    {
+      "x": 1578,
+      "y": 1004
+    },
+    {
+      "x": 1242,
+      "y": 1004
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b0377f5282d9",
+  "frameId": "3020c42d-f7eb-809c-8007-b0377f5282d9",
+  "flipX": null,
+  "flipY": null,
+  "growType": "fixed",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "sourcesanspro",
+                "fontSize": "13",
+                "fontWeight": "400",
+                "textDirection": "ltr",
+                "fontVariantId": "regular",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#757575",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "sourcesanspro",
+                "text": "Start adding items from the menu"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "center",
+            "fontId": "sourcesanspro",
+            "fontSize": "13",
+            "fontWeight": "400",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "regular",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#757575",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "sourcesanspro"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 1318.4375,
+      "y": 1001,
+      "width": 183.109375,
+      "height": 16,
+      "x1": 76.4375,
+      "y1": -1,
+      "x2": 259.546875,
+      "y2": 15,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "13px",
+      "fontWeight": "400",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#757575",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "sourcesanspro",
+      "text": "Start adding items from the menu"
+    }
+  ],
+  "pageId": "3020c42d-f7eb-809c-8007-b036d76a3bf9"
+}

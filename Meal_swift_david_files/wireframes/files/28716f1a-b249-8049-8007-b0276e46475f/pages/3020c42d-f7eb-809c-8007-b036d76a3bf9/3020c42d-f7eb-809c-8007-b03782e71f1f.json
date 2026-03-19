@@ -1,0 +1,74 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b03782e71f1f",
+  "name": "BR Fil 5",
+  "type": "rect",
+  "x": 290,
+  "y": 2749,
+  "width": 280,
+  "height": 10,
+  "rotation": 0,
+  "selrect": {
+    "x": 290,
+    "y": 2749,
+    "width": 280,
+    "height": 10,
+    "x1": 290,
+    "y1": 2749,
+    "x2": 570,
+    "y2": 2759
+  },
+  "points": [
+    {
+      "x": 290,
+      "y": 2749
+    },
+    {
+      "x": 570,
+      "y": 2749
+    },
+    {
+      "x": 570,
+      "y": 2759
+    },
+    {
+      "x": 290,
+      "y": 2759
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b0377f5282d9",
+  "frameId": "3020c42d-f7eb-809c-8007-b0377f5282d9",
+  "flipX": null,
+  "flipY": null,
+  "r2": 5,
+  "proportionLock": false,
+  "pageId": "3020c42d-f7eb-809c-8007-b036d76a3bf9",
+  "r3": 5,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 5,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 5,
+  "fills": [
+    {
+      "fillColor": "#bdbdbd",
+      "fillOpacity": 1
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51a3c147e61",
+  "name": "Menu Spice Garden",
+  "type": "text",
+  "x": 320,
+  "y": 816,
+  "width": 97,
+  "height": 17,
+  "rotation": 0,
+  "selrect": {
+    "x": 320,
+    "y": 816,
+    "width": 97,
+    "height": 17,
+    "x1": 320,
+    "y1": 816,
+    "x2": 417,
+    "y2": 833
+  },
+  "points": [
+    {
+      "x": 320,
+      "y": 816
+    },
+    {
+      "x": 417,
+      "y": 816
+    },
+    {
+      "x": 417,
+      "y": 833
+    },
+    {
+      "x": 320,
+      "y": 833
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51a3bef30fe",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51a3bef30fe",
+  "flipX": null,
+  "flipY": null,
+  "growType": "auto-width",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "gfont-cascadia-mono",
+                "fontSize": "14",
+                "fontWeight": "700",
+                "textDirection": "ltr",
+                "fontVariantId": "700",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#288ec1",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "Cascadia Mono",
+                "text": "View Menu \u2192"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "gfont-cascadia-mono",
+            "fontSize": "14",
+            "fontWeight": "700",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "700",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#288ec1",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "Cascadia Mono"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 320,
+      "y": 832,
+      "width": 96.03125,
+      "height": 16,
+      "x1": 0,
+      "y1": 0,
+      "x2": 96.03125,
+      "y2": 16,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "14px",
+      "fontWeight": "700",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#288ec1",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "\"Cascadia Mono\"",
+      "text": "View Menu \u2192"
+    }
+  ],
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51996880da3"
+}

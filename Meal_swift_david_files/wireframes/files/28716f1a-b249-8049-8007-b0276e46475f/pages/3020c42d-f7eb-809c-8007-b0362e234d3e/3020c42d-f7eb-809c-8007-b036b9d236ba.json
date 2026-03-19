@@ -1,0 +1,74 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b036b9d236ba",
+  "name": "Tag \u2013 Under 30 min",
+  "type": "rect",
+  "x": 382,
+  "y": 354,
+  "width": 130,
+  "height": 28,
+  "rotation": 0,
+  "selrect": {
+    "x": 382,
+    "y": 354,
+    "width": 130,
+    "height": 28,
+    "x1": 382,
+    "y1": 354,
+    "x2": 512,
+    "y2": 382
+  },
+  "points": [
+    {
+      "x": 382,
+      "y": 354
+    },
+    {
+      "x": 512,
+      "y": 354
+    },
+    {
+      "x": 512,
+      "y": 382
+    },
+    {
+      "x": 382,
+      "y": 382
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b036b98e5508",
+  "frameId": "3020c42d-f7eb-809c-8007-b036b98e5508",
+  "flipX": null,
+  "flipY": null,
+  "r2": 14,
+  "proportionLock": false,
+  "pageId": "3020c42d-f7eb-809c-8007-b0362e234d3e",
+  "r3": 14,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 14,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 14,
+  "fills": [
+    {
+      "fillColor": "#e0e0e0",
+      "fillOpacity": 1
+    }
+  ]
+}

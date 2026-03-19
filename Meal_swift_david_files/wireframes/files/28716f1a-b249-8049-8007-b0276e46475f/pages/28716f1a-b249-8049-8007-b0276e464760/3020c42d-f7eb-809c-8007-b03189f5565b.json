@@ -1,0 +1,74 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b03189f5565b",
+  "name": "Nav Search Bar",
+  "type": "rect",
+  "x": 720,
+  "y": 216,
+  "width": 400,
+  "height": 40,
+  "rotation": 0,
+  "selrect": {
+    "x": 720,
+    "y": 216,
+    "width": 400,
+    "height": 40,
+    "x1": 720,
+    "y1": 216,
+    "x2": 1120,
+    "y2": 256
+  },
+  "points": [
+    {
+      "x": 720,
+      "y": 216
+    },
+    {
+      "x": 1120,
+      "y": 216
+    },
+    {
+      "x": 1120,
+      "y": 256
+    },
+    {
+      "x": 720,
+      "y": 256
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b03189dd5558",
+  "frameId": "3020c42d-f7eb-809c-8007-b03189dd5558",
+  "flipX": null,
+  "flipY": null,
+  "r2": 8,
+  "proportionLock": false,
+  "pageId": "28716f1a-b249-8049-8007-b0276e464760",
+  "r3": 8,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 8,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 8,
+  "fills": [
+    {
+      "fillColor": "#e0e0e0",
+      "fillOpacity": 1
+    }
+  ]
+}

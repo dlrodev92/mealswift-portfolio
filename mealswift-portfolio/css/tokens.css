@@ -1,0 +1,45 @@
+/* ─── DESIGN TOKENS ─────────────────────────────────────────────────────────
+   CSS custom properties only. No rules, no selectors.
+   ─────────────────────────────────────────────────────────────────────────── */
+
+:root {
+  /* ── Colours ── */
+  --color-primary:       #288EC1;
+  --color-primary-dark:  #1a6a96;
+  --color-primary-dim:   rgba(40, 142, 193, 0.15);
+
+  --color-accent:        #E1ED30;
+  --color-accent-dim:    rgba(225, 237, 48, 0.12);
+
+  --color-bg:            #0d1117;
+  --color-bg-raised:     #161c24;
+  --color-bg-card:       rgba(255, 255, 255, 0.03);
+
+  --color-border:        rgba(255, 255, 255, 0.07);
+  --color-border-hover:  rgba(40, 142, 193, 0.4);
+
+  --color-text:          #e8eef4;
+  --color-text-muted:    #6b7f94;
+  --color-text-faint:    #3d5166;
+
+  /* ── Typography ── */
+  --font-display: 'Bebas Neue', sans-serif;
+  --font-body:    'DM Sans', sans-serif;
+  --font-mono:    'DM Mono', monospace;
+
+  /* ── Spacing ── */
+  --space-xs:  0.4rem;
+  --space-sm:  0.75rem;
+  --space-md:  1.5rem;
+  --space-lg:  2.5rem;
+  --space-xl:  4rem;
+  --space-2xl: 7rem;
+
+  /* ── Layout ── */
+  --page-pad:  clamp(1.5rem, 5vw, 4rem);
+  --max-width: 1280px;
+
+  /* ── Transitions ── */
+  --ease-fast: 0.18s ease;
+  --ease-base: 0.26s ease;
+}

@@ -1,0 +1,90 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51d788ef82f",
+  "name": "Progress Steps",
+  "type": "frame",
+  "x": 0,
+  "y": 72,
+  "width": 1440,
+  "height": 72,
+  "rotation": 0,
+  "selrect": {
+    "x": 0,
+    "y": 72,
+    "width": 1440,
+    "height": 72,
+    "x1": 0,
+    "y1": 72,
+    "x2": 1440,
+    "y2": 144
+  },
+  "points": [
+    {
+      "x": 0,
+      "y": 72
+    },
+    {
+      "x": 1440,
+      "y": 72
+    },
+    {
+      "x": 1440,
+      "y": 144
+    },
+    {
+      "x": 0,
+      "y": 144
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51d61ff58d3",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51d61ff58d3",
+  "flipX": null,
+  "flipY": null,
+  "hideFillOnExport": false,
+  "hideInViewer": true,
+  "r2": 0,
+  "showContent": false,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51cfabaff8c",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillColor": "#ffffff",
+      "fillOpacity": 1
+    }
+  ],
+  "shapes": [
+    "63e1c1ca-bbbb-8082-8007-b51d78ca4966",
+    "63e1c1ca-bbbb-8082-8007-b51d78c5f7fc",
+    "63e1c1ca-bbbb-8082-8007-b51d78c16310",
+    "63e1c1ca-bbbb-8082-8007-b51d78ba9442",
+    "63e1c1ca-bbbb-8082-8007-b51d78b5886a",
+    "63e1c1ca-bbbb-8082-8007-b51d78b019ec",
+    "63e1c1ca-bbbb-8082-8007-b51d78aa44ae",
+    "63e1c1ca-bbbb-8082-8007-b51d78a49124",
+    "63e1c1ca-bbbb-8082-8007-b51d789ef125",
+    "63e1c1ca-bbbb-8082-8007-b51d789ba556",
+    "63e1c1ca-bbbb-8082-8007-b51d7896e03d"
+  ]
+}

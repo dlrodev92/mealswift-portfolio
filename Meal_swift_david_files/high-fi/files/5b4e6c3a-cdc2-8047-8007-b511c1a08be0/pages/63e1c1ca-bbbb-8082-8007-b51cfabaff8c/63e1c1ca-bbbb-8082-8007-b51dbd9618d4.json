@@ -1,0 +1,126 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51dbd9618d4",
+  "name": "Order Summary",
+  "type": "frame",
+  "x": 960,
+  "y": 144,
+  "width": 400,
+  "height": 680.0000000000001,
+  "rotation": 0,
+  "selrect": {
+    "x": 960,
+    "y": 144,
+    "width": 400,
+    "height": 680.0000000000001,
+    "x1": 960,
+    "y1": 144,
+    "x2": 1360,
+    "y2": 824.0000000000001
+  },
+  "points": [
+    {
+      "x": 960,
+      "y": 144
+    },
+    {
+      "x": 1360,
+      "y": 144
+    },
+    {
+      "x": 1360,
+      "y": 824.0000000000001
+    },
+    {
+      "x": 960,
+      "y": 824.0000000000001
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51d61ff58d3",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51d61ff58d3",
+  "flipX": null,
+  "flipY": null,
+  "hideFillOnExport": false,
+  "hideInViewer": true,
+  "r2": 12,
+  "showContent": false,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51cfabaff8c",
+  "r3": 12,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 12,
+  "strokes": [
+    {
+      "strokeColor": "#e0e0e0",
+      "strokeOpacity": 1,
+      "strokeWidth": 1
+    }
+  ],
+  "proportion": 1,
+  "shadow": [
+    {
+      "id": "63e1c1ca-bbbb-8082-8007-b51dbd9beb44",
+      "style": "drop-shadow",
+      "color": {
+        "color": "#000000",
+        "opacity": 0.06
+      },
+      "offsetX": 0,
+      "offsetY": 2,
+      "blur": 8,
+      "spread": 0,
+      "hidden": false
+    }
+  ],
+  "r4": 12,
+  "fills": [
+    {
+      "fillColor": "#ffffff",
+      "fillOpacity": 1
+    }
+  ],
+  "shapes": [
+    "63e1c1ca-bbbb-8082-8007-b51dbe45c95b",
+    "63e1c1ca-bbbb-8082-8007-b51dbe3c6569",
+    "63e1c1ca-bbbb-8082-8007-b51dbe35e53f",
+    "63e1c1ca-bbbb-8082-8007-b51dbe30f6f6",
+    "63e1c1ca-bbbb-8082-8007-b51dbe2c4816",
+    "63e1c1ca-bbbb-8082-8007-b51dbe27f5da",
+    "63e1c1ca-bbbb-8082-8007-b51dbe22d0b9",
+    "63e1c1ca-bbbb-8082-8007-b51dbe1e906a",
+    "63e1c1ca-bbbb-8082-8007-b51dbe19cec2",
+    "63e1c1ca-bbbb-8082-8007-b51dbe150c2d",
+    "63e1c1ca-bbbb-8082-8007-b51dbe108fac",
+    "63e1c1ca-bbbb-8082-8007-b51dbe093ac5",
+    "63e1c1ca-bbbb-8082-8007-b51dbdee6f1f",
+    "63e1c1ca-bbbb-8082-8007-b51dbde53045",
+    "63e1c1ca-bbbb-8082-8007-b51dbddc89b1",
+    "63e1c1ca-bbbb-8082-8007-b51dbdd4c977",
+    "63e1c1ca-bbbb-8082-8007-b51dbdcd52d8",
+    "63e1c1ca-bbbb-8082-8007-b51dbdc4b14f",
+    "63e1c1ca-bbbb-8082-8007-b51dbdbe4bae",
+    "63e1c1ca-bbbb-8082-8007-b51dbdba65e2",
+    "63e1c1ca-bbbb-8082-8007-b51dbdb68df1",
+    "63e1c1ca-bbbb-8082-8007-b51dbdb1d2a3",
+    "63e1c1ca-bbbb-8082-8007-b51dbdae6dd9",
+    "63e1c1ca-bbbb-8082-8007-b51dbda9eda5",
+    "63e1c1ca-bbbb-8082-8007-b51dbda2bee9",
+    "63e1c1ca-bbbb-8082-8007-b51dbd9cd883"
+  ]
+}

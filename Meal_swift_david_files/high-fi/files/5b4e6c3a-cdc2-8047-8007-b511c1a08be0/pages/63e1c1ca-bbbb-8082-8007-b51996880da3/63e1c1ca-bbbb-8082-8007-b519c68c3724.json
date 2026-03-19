@@ -1,0 +1,74 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b519c68c3724",
+  "name": "Pill Pizza \u00d7",
+  "type": "rect",
+  "x": 190,
+  "y": 158,
+  "width": 60,
+  "height": 28,
+  "rotation": 0,
+  "selrect": {
+    "x": 190,
+    "y": 158,
+    "width": 60,
+    "height": 28,
+    "x1": 190,
+    "y1": 158,
+    "x2": 250,
+    "y2": 186
+  },
+  "points": [
+    {
+      "x": 190,
+      "y": 158
+    },
+    {
+      "x": 250,
+      "y": 158
+    },
+    {
+      "x": 250,
+      "y": 186
+    },
+    {
+      "x": 190,
+      "y": 186
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b519c67e2d0c",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b519c67e2d0c",
+  "flipX": null,
+  "flipY": null,
+  "r2": 16,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51996880da3",
+  "r3": 16,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 16,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 16,
+  "fills": [
+    {
+      "fillColor": "#288ec1",
+      "fillOpacity": 1
+    }
+  ]
+}

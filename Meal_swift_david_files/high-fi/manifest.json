@@ -1,0 +1,21 @@
+{
+  "type": "penpot\/export-files",
+  "version": 1,
+  "generatedBy": "penpot\/2.14.0-RC4",
+  "refer": "penpot",
+  "files": [
+    {
+      "id": "5b4e6c3a-cdc2-8047-8007-b511c1a08be0",
+      "name": "high-fi",
+      "features": [
+        "fdata\/path-data",
+        "design-tokens\/v1",
+        "variants\/v1",
+        "layout\/grid",
+        "components\/v2",
+        "fdata\/shape-data-type"
+      ]
+    }
+  ],
+  "relations": []
+}

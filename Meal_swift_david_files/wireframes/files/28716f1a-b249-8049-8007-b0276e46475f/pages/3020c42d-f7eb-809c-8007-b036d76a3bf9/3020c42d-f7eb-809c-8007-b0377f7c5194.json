@@ -1,0 +1,74 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b0377f7c5194",
+  "name": "Hero Image",
+  "type": "rect",
+  "x": 200,
+  "y": 272,
+  "width": 1440,
+  "height": 360,
+  "rotation": 0,
+  "selrect": {
+    "x": 200,
+    "y": 272,
+    "width": 1440,
+    "height": 360,
+    "x1": 200,
+    "y1": 272,
+    "x2": 1640,
+    "y2": 632
+  },
+  "points": [
+    {
+      "x": 200,
+      "y": 272
+    },
+    {
+      "x": 1640,
+      "y": 272
+    },
+    {
+      "x": 1640,
+      "y": 632
+    },
+    {
+      "x": 200,
+      "y": 632
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b0377f5282d9",
+  "frameId": "3020c42d-f7eb-809c-8007-b0377f5282d9",
+  "flipX": null,
+  "flipY": null,
+  "r2": 0,
+  "proportionLock": false,
+  "pageId": "3020c42d-f7eb-809c-8007-b036d76a3bf9",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillColor": "#bdbdbd",
+      "fillOpacity": 1
+    }
+  ]
+}

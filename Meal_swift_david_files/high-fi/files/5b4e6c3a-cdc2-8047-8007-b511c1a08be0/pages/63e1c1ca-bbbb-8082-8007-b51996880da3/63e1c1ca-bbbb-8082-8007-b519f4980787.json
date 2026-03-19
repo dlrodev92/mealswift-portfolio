@@ -1,0 +1,143 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b519f4980787",
+  "name": "Stars",
+  "type": "text",
+  "x": 24,
+  "y": 928,
+  "width": 90,
+  "height": 24,
+  "rotation": 0,
+  "selrect": {
+    "x": 24,
+    "y": 928,
+    "width": 90,
+    "height": 24,
+    "x1": 24,
+    "y1": 928,
+    "x2": 114,
+    "y2": 952
+  },
+  "points": [
+    {
+      "x": 24,
+      "y": 928
+    },
+    {
+      "x": 114,
+      "y": 928
+    },
+    {
+      "x": 114,
+      "y": 952
+    },
+    {
+      "x": 24,
+      "y": 952
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b519e13f8b70",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b519e13f8b70",
+  "flipX": null,
+  "flipY": null,
+  "growType": "auto-width",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "gfont-cascadia-mono",
+                "fontSize": "20",
+                "fontWeight": "400",
+                "textDirection": "ltr",
+                "fontVariantId": "regular",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#e1ed30",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "Cascadia Mono",
+                "text": "\u2605\u2605\u2605\u2605\u2605"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "gfont-cascadia-mono",
+            "fontSize": "20",
+            "fontWeight": "400",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "regular",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#e1ed30",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "Cascadia Mono"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 24,
+      "y": 952,
+      "width": 89.65625,
+      "height": 24,
+      "x1": 0,
+      "y1": 0,
+      "x2": 89.65625,
+      "y2": 24,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "20px",
+      "fontWeight": "400",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#e1ed30",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "\"Cascadia Mono\"",
+      "text": "\u2605\u2605\u2605\u2605\u2605"
+    }
+  ],
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51996880da3"
+}

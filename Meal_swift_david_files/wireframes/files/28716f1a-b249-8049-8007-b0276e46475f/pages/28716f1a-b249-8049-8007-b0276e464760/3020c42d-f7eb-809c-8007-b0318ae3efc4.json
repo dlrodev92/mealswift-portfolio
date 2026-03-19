@@ -1,0 +1,143 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b0318ae3efc4",
+  "name": "Promo Headline",
+  "type": "text",
+  "x": 280,
+  "y": 1508,
+  "width": 288,
+  "height": 29,
+  "rotation": 0,
+  "selrect": {
+    "x": 280,
+    "y": 1508,
+    "width": 288,
+    "height": 29,
+    "x1": 280,
+    "y1": 1508,
+    "x2": 568,
+    "y2": 1537
+  },
+  "points": [
+    {
+      "x": 280,
+      "y": 1508
+    },
+    {
+      "x": 568,
+      "y": 1508
+    },
+    {
+      "x": 568,
+      "y": 1537
+    },
+    {
+      "x": 280,
+      "y": 1537
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b03189dd5558",
+  "frameId": "3020c42d-f7eb-809c-8007-b03189dd5558",
+  "flipX": null,
+  "flipY": null,
+  "growType": "auto-width",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "sourcesanspro",
+                "fontSize": "24",
+                "fontWeight": "700",
+                "textDirection": "ltr",
+                "fontVariantId": "bold",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#212121",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "sourcesanspro",
+                "text": "Get 20% off your first order"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "sourcesanspro",
+            "fontSize": "24",
+            "fontWeight": "700",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "bold",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#212121",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "sourcesanspro"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 280,
+      "y": 1538,
+      "width": 287.9375,
+      "height": 33,
+      "x1": 0,
+      "y1": -3,
+      "x2": 287.9375,
+      "y2": 30,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "24px",
+      "fontWeight": "700",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#212121",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "sourcesanspro",
+      "text": "Get 20% off your first order"
+    }
+  ],
+  "pageId": "28716f1a-b249-8049-8007-b0276e464760"
+}

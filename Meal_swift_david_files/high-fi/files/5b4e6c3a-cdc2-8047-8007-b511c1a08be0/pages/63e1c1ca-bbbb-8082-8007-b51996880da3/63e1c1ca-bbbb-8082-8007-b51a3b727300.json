@@ -1,0 +1,101 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51a3b727300",
+  "name": "Right Content",
+  "type": "frame",
+  "x": 280,
+  "y": 200,
+  "width": 1160,
+  "height": 1400,
+  "rotation": 0,
+  "selrect": {
+    "x": 280,
+    "y": 200,
+    "width": 1160,
+    "height": 1400,
+    "x1": 280,
+    "y1": 200,
+    "x2": 1440,
+    "y2": 1600
+  },
+  "points": [
+    {
+      "x": 280,
+      "y": 200
+    },
+    {
+      "x": 1440,
+      "y": 200
+    },
+    {
+      "x": 1440,
+      "y": 1600
+    },
+    {
+      "x": 280,
+      "y": 1600
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b5199c96a0ec",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b5199c96a0ec",
+  "flipX": null,
+  "flipY": null,
+  "hideFillOnExport": false,
+  "hideInViewer": true,
+  "r2": 0,
+  "showContent": true,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51996880da3",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillColor": "#f9f9f9",
+      "fillOpacity": 1
+    }
+  ],
+  "shapes": [
+    "63e1c1ca-bbbb-8082-8007-b51a3d1138b8",
+    "63e1c1ca-bbbb-8082-8007-b51a3ced5ae6",
+    "63e1c1ca-bbbb-8082-8007-b51a3ca247ce",
+    "63e1c1ca-bbbb-8082-8007-b51a3c4dcfb5",
+    "63e1c1ca-bbbb-8082-8007-b51a3c1bcabd",
+    "63e1c1ca-bbbb-8082-8007-b51a3bef30fe",
+    "63e1c1ca-bbbb-8082-8007-b51a3bcb826c",
+    "63e1c1ca-bbbb-8082-8007-b51a3b9eec6e",
+    "63e1c1ca-bbbb-8082-8007-b51a3b79d86d",
+    "63e1c1ca-bbbb-8082-8007-b51a4c2c60b2",
+    "63e1c1ca-bbbb-8082-8007-b51a4c34d1d7",
+    "63e1c1ca-bbbb-8082-8007-b51a4c3abc06",
+    "63e1c1ca-bbbb-8082-8007-b51a4c3fb364",
+    "63e1c1ca-bbbb-8082-8007-b51a4c45bd02",
+    "63e1c1ca-bbbb-8082-8007-b51a4c4c128e",
+    "63e1c1ca-bbbb-8082-8007-b51a4c51c183",
+    "63e1c1ca-bbbb-8082-8007-b51a4c57f2fe",
+    "63e1c1ca-bbbb-8082-8007-b51a4c5d6ef3",
+    "63e1c1ca-bbbb-8082-8007-b51a4c643b38",
+    "63e1c1ca-bbbb-8082-8007-b51a4c6a2729",
+    "63e1c1ca-bbbb-8082-8007-b51a4c704fe0",
+    "63e1c1ca-bbbb-8082-8007-b51a4c7559b6"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b036ba1bb0fd",
+  "name": "Sdiv 2",
+  "type": "rect",
+  "x": 220,
+  "y": 646,
+  "width": 240,
+  "height": 1,
+  "rotation": 0,
+  "selrect": {
+    "x": 220,
+    "y": 646,
+    "width": 240,
+    "height": 1,
+    "x1": 220,
+    "y1": 646,
+    "x2": 460,
+    "y2": 647
+  },
+  "points": [
+    {
+      "x": 220,
+      "y": 646
+    },
+    {
+      "x": 460,
+      "y": 646
+    },
+    {
+      "x": 460,
+      "y": 647
+    },
+    {
+      "x": 220,
+      "y": 647
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b036b98e5508",
+  "frameId": "3020c42d-f7eb-809c-8007-b036b98e5508",
+  "flipX": null,
+  "flipY": null,
+  "r2": 0,
+  "proportionLock": false,
+  "pageId": "3020c42d-f7eb-809c-8007-b0362e234d3e",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillColor": "#e0e0e0",
+      "fillOpacity": 1
+    }
+  ]
+}

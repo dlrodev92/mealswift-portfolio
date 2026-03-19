@@ -1,0 +1,80 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b512a130e629",
+  "name": "Sign In BG",
+  "type": "rect",
+  "x": 1144,
+  "y": 18,
+  "width": 80,
+  "height": 36,
+  "rotation": 0,
+  "selrect": {
+    "x": 1144,
+    "y": 18,
+    "width": 80,
+    "height": 36,
+    "x1": 1144,
+    "y1": 18,
+    "x2": 1224,
+    "y2": 54
+  },
+  "points": [
+    {
+      "x": 1144,
+      "y": 18
+    },
+    {
+      "x": 1224,
+      "y": 18
+    },
+    {
+      "x": 1224,
+      "y": 54
+    },
+    {
+      "x": 1144,
+      "y": 54
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b512768062d4",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b512768062d4",
+  "flipX": null,
+  "flipY": null,
+  "r2": 6,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51248ccbd17",
+  "r3": 6,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 6,
+  "strokes": [
+    {
+      "strokeColor": "#288ec1",
+      "strokeOpacity": 1,
+      "strokeWidth": 1
+    }
+  ],
+  "proportion": 1,
+  "r4": 6,
+  "fills": [
+    {
+      "fillColor": "#ffffff",
+      "fillOpacity": 0
+    }
+  ]
+}

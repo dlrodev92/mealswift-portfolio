@@ -1,0 +1,106 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51a3b79d86d",
+  "name": "Card Burger Palace",
+  "type": "frame",
+  "x": 304,
+  "y": 224,
+  "width": 340,
+  "height": 300,
+  "rotation": 0,
+  "selrect": {
+    "x": 304,
+    "y": 224,
+    "width": 340,
+    "height": 300,
+    "x1": 304,
+    "y1": 224,
+    "x2": 644,
+    "y2": 524
+  },
+  "points": [
+    {
+      "x": 304,
+      "y": 224
+    },
+    {
+      "x": 644,
+      "y": 224
+    },
+    {
+      "x": 644,
+      "y": 524
+    },
+    {
+      "x": 304,
+      "y": 524
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51a3b727300",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51a3b727300",
+  "flipX": null,
+  "flipY": null,
+  "hideFillOnExport": false,
+  "hideInViewer": true,
+  "r2": 12,
+  "showContent": false,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51996880da3",
+  "r3": 12,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 12,
+  "strokes": [
+    {
+      "strokeColor": "#e0e0e0",
+      "strokeOpacity": 1,
+      "strokeWidth": 1
+    }
+  ],
+  "proportion": 1,
+  "shadow": [
+    {
+      "id": "63e1c1ca-bbbb-8082-8007-b51a3b7fcd45",
+      "style": "drop-shadow",
+      "color": {
+        "color": "#000000",
+        "opacity": 0.06
+      },
+      "offsetX": 0,
+      "offsetY": 2,
+      "blur": 8,
+      "spread": 0,
+      "hidden": false
+    }
+  ],
+  "r4": 12,
+  "fills": [
+    {
+      "fillColor": "#ffffff",
+      "fillOpacity": 1
+    }
+  ],
+  "shapes": [
+    "63e1c1ca-bbbb-8082-8007-b51a3b9a5af1",
+    "63e1c1ca-bbbb-8082-8007-b51a3b9648da",
+    "63e1c1ca-bbbb-8082-8007-b51a3b917635",
+    "63e1c1ca-bbbb-8082-8007-b51a3b8cf8e9",
+    "63e1c1ca-bbbb-8082-8007-b51a3b85cd1a",
+    "63e1c1ca-bbbb-8082-8007-b51a3b811e75"
+  ]
+}

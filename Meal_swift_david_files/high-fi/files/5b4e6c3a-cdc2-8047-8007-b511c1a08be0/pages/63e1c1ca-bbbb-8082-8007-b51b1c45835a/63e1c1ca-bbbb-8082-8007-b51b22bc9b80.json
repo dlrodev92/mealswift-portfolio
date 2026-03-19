@@ -1,0 +1,82 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51b22bc9b80",
+  "name": "Restaurant Detail",
+  "type": "frame",
+  "x": 0,
+  "y": 0,
+  "width": 1440,
+  "height": 2904,
+  "rotation": 0,
+  "selrect": {
+    "x": 0,
+    "y": 0,
+    "width": 1440,
+    "height": 2904,
+    "x1": 0,
+    "y1": 0,
+    "x2": 1440,
+    "y2": 2904
+  },
+  "points": [
+    {
+      "x": 0,
+      "y": 0
+    },
+    {
+      "x": 1440,
+      "y": 0
+    },
+    {
+      "x": 1440,
+      "y": 2904
+    },
+    {
+      "x": 0,
+      "y": 2904
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "00000000-0000-0000-0000-000000000000",
+  "frameId": "00000000-0000-0000-0000-000000000000",
+  "flipX": null,
+  "flipY": null,
+  "hideFillOnExport": false,
+  "r2": 0,
+  "showContent": false,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51b1c45835a",
+  "r3": 0,
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillColor": "#f9f9f9",
+      "fillOpacity": 1
+    }
+  ],
+  "shapes": [
+    "63e1c1ca-bbbb-8082-8007-b51bf6aeb1ec",
+    "63e1c1ca-bbbb-8082-8007-b51ba25098aa",
+    "63e1c1ca-bbbb-8082-8007-b51b5c4d814a",
+    "63e1c1ca-bbbb-8082-8007-b51b5c05e8a3",
+    "63e1c1ca-bbbb-8082-8007-b51b462dee26",
+    "63e1c1ca-bbbb-8082-8007-b51b3581ce30"
+  ]
+}

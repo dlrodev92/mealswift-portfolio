@@ -1,0 +1,74 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b513936ba205",
+  "name": "Pills Border",
+  "type": "rect",
+  "x": 0,
+  "y": 691,
+  "width": 1440,
+  "height": 1,
+  "rotation": 0,
+  "selrect": {
+    "x": 0,
+    "y": 691,
+    "width": 1440,
+    "height": 1,
+    "x1": 0,
+    "y1": 691,
+    "x2": 1440,
+    "y2": 692
+  },
+  "points": [
+    {
+      "x": 0,
+      "y": 691
+    },
+    {
+      "x": 1440,
+      "y": 691
+    },
+    {
+      "x": 1440,
+      "y": 692
+    },
+    {
+      "x": 0,
+      "y": 692
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b513935e730f",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b513935e730f",
+  "flipX": null,
+  "flipY": null,
+  "r2": 0,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51248ccbd17",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillColor": "#e0e0e0",
+      "fillOpacity": 1
+    }
+  ]
+}

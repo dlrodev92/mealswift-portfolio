@@ -1,0 +1,143 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b03c2186c667",
+  "name": "Map Lbl",
+  "type": "text",
+  "x": 220,
+  "y": 772,
+  "width": 820,
+  "height": 18,
+  "rotation": 0,
+  "selrect": {
+    "x": 220,
+    "y": 772,
+    "width": 820,
+    "height": 18,
+    "x1": 220,
+    "y1": 772,
+    "x2": 1040,
+    "y2": 790
+  },
+  "points": [
+    {
+      "x": 220,
+      "y": 772
+    },
+    {
+      "x": 1040,
+      "y": 772
+    },
+    {
+      "x": 1040,
+      "y": 790
+    },
+    {
+      "x": 220,
+      "y": 790
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b03c211d5978",
+  "frameId": "3020c42d-f7eb-809c-8007-b03c211d5978",
+  "flipX": null,
+  "flipY": null,
+  "growType": "fixed",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "sourcesanspro",
+                "fontSize": "14",
+                "fontWeight": "400",
+                "textDirection": "ltr",
+                "fontVariantId": "regular",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#757575",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "sourcesanspro",
+                "text": "Live Map Placeholder \u2013 Delivery route tracking"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "center",
+            "fontId": "sourcesanspro",
+            "fontSize": "14",
+            "fontWeight": "400",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "regular",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#757575",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "sourcesanspro"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 495.25,
+      "y": 789,
+      "width": 269.5,
+      "height": 18,
+      "x1": 275.25,
+      "y1": -1,
+      "x2": 544.75,
+      "y2": 17,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#757575",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "sourcesanspro",
+      "text": "Live Map Placeholder \u2013 Delivery route tracking"
+    }
+  ],
+  "pageId": "3020c42d-f7eb-809c-8007-b03a8dd6bcda"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51ea1545316",
+  "name": "Rectangle",
+  "type": "rect",
+  "x": 180,
+  "y": 308,
+  "width": 333.33333333333326,
+  "height": 4,
+  "rotation": 0,
+  "selrect": {
+    "x": 180,
+    "y": 308,
+    "width": 333.33333333333326,
+    "height": 4,
+    "x1": 180,
+    "y1": 308,
+    "x2": 513.3333333333333,
+    "y2": 312
+  },
+  "points": [
+    {
+      "x": 180,
+      "y": 308
+    },
+    {
+      "x": 513.3333333333333,
+      "y": 308
+    },
+    {
+      "x": 513.3333333333333,
+      "y": 312
+    },
+    {
+      "x": 180,
+      "y": 312
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51ea14eaa84",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51ea14eaa84",
+  "flipX": null,
+  "flipY": null,
+  "r2": 0,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51e72827203",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillColor": "#288ec1",
+      "fillOpacity": 1
+    }
+  ]
+}

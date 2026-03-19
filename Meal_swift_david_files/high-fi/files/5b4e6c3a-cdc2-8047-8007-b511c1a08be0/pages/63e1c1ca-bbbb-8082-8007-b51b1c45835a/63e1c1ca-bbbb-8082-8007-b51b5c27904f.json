@@ -1,0 +1,74 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51b5c27904f",
+  "name": "IB Div 274",
+  "type": "rect",
+  "x": 346,
+  "y": 462,
+  "width": 1,
+  "height": 32,
+  "rotation": 0,
+  "selrect": {
+    "x": 346,
+    "y": 462,
+    "width": 1,
+    "height": 32,
+    "x1": 346,
+    "y1": 462,
+    "x2": 347,
+    "y2": 494
+  },
+  "points": [
+    {
+      "x": 346,
+      "y": 462
+    },
+    {
+      "x": 347,
+      "y": 462
+    },
+    {
+      "x": 347,
+      "y": 494
+    },
+    {
+      "x": 346,
+      "y": 494
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51b5c05e8a3",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51b5c05e8a3",
+  "flipX": null,
+  "flipY": null,
+  "r2": 0,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51b1c45835a",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillColor": "#e0e0e0",
+      "fillOpacity": 1
+    }
+  ]
+}

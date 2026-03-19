@@ -1,0 +1,143 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b0377f8609f2",
+  "name": "Hero Name",
+  "type": "text",
+  "x": 240,
+  "y": 562,
+  "width": 277,
+  "height": 44,
+  "rotation": 0,
+  "selrect": {
+    "x": 240,
+    "y": 562,
+    "width": 277,
+    "height": 44,
+    "x1": 240,
+    "y1": 562,
+    "x2": 517,
+    "y2": 606
+  },
+  "points": [
+    {
+      "x": 240,
+      "y": 562
+    },
+    {
+      "x": 517,
+      "y": 562
+    },
+    {
+      "x": 517,
+      "y": 606
+    },
+    {
+      "x": 240,
+      "y": 606
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b0377f5282d9",
+  "frameId": "3020c42d-f7eb-809c-8007-b0377f5282d9",
+  "flipX": null,
+  "flipY": null,
+  "growType": "auto-width",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "sourcesanspro",
+                "fontSize": "36",
+                "fontWeight": "700",
+                "textDirection": "ltr",
+                "fontVariantId": "bold",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#ffffff",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "sourcesanspro",
+                "text": "Restaurant Name"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "sourcesanspro",
+            "fontSize": "36",
+            "fontWeight": "700",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "bold",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#ffffff",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "sourcesanspro"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 240,
+      "y": 608,
+      "width": 276.359375,
+      "height": 49,
+      "x1": 0,
+      "y1": -3,
+      "x2": 276.359375,
+      "y2": 46,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "36px",
+      "fontWeight": "700",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#ffffff",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "sourcesanspro",
+      "text": "Restaurant Name"
+    }
+  ],
+  "pageId": "3020c42d-f7eb-809c-8007-b036d76a3bf9"
+}

@@ -1,0 +1,106 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51a3c4dcfb5",
+  "name": "Card Green Bowl",
+  "type": "frame",
+  "x": 1076,
+  "y": 548,
+  "width": 340,
+  "height": 300,
+  "rotation": 0,
+  "selrect": {
+    "x": 1076,
+    "y": 548,
+    "width": 340,
+    "height": 300,
+    "x1": 1076,
+    "y1": 548,
+    "x2": 1416,
+    "y2": 848
+  },
+  "points": [
+    {
+      "x": 1076,
+      "y": 548
+    },
+    {
+      "x": 1416,
+      "y": 548
+    },
+    {
+      "x": 1416,
+      "y": 848
+    },
+    {
+      "x": 1076,
+      "y": 848
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51a3b727300",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51a3b727300",
+  "flipX": null,
+  "flipY": null,
+  "hideFillOnExport": false,
+  "hideInViewer": true,
+  "r2": 12,
+  "showContent": false,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51996880da3",
+  "r3": 12,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 12,
+  "strokes": [
+    {
+      "strokeColor": "#e0e0e0",
+      "strokeOpacity": 1,
+      "strokeWidth": 1
+    }
+  ],
+  "proportion": 1,
+  "shadow": [
+    {
+      "id": "63e1c1ca-bbbb-8082-8007-b51a3c5ab360",
+      "style": "drop-shadow",
+      "color": {
+        "color": "#000000",
+        "opacity": 0.06
+      },
+      "offsetX": 0,
+      "offsetY": 2,
+      "blur": 8,
+      "spread": 0,
+      "hidden": false
+    }
+  ],
+  "r4": 12,
+  "fills": [
+    {
+      "fillColor": "#ffffff",
+      "fillOpacity": 1
+    }
+  ],
+  "shapes": [
+    "63e1c1ca-bbbb-8082-8007-b51a3c96c428",
+    "63e1c1ca-bbbb-8082-8007-b51a3c8bce8a",
+    "63e1c1ca-bbbb-8082-8007-b51a3c813669",
+    "63e1c1ca-bbbb-8082-8007-b51a3c74b292",
+    "63e1c1ca-bbbb-8082-8007-b51a3c69eb6b",
+    "63e1c1ca-bbbb-8082-8007-b51a3c5f02cc"
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51d78aa44ae",
+  "name": "Text",
+  "type": "text",
+  "x": 440,
+  "y": 125,
+  "width": 22,
+  "height": 15,
+  "rotation": 0,
+  "selrect": {
+    "x": 440,
+    "y": 125,
+    "width": 22,
+    "height": 15,
+    "x1": 440,
+    "y1": 125,
+    "x2": 462,
+    "y2": 140
+  },
+  "points": [
+    {
+      "x": 440,
+      "y": 125
+    },
+    {
+      "x": 462,
+      "y": 125
+    },
+    {
+      "x": 462,
+      "y": 140
+    },
+    {
+      "x": 440,
+      "y": 140
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51d788ef82f",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51d788ef82f",
+  "flipX": null,
+  "flipY": null,
+  "growType": "auto-width",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "sourcesanspro",
+                "fontSize": "12",
+                "fontWeight": "400",
+                "textDirection": "ltr",
+                "fontVariantId": "regular",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#288ec1",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "sourcesanspro",
+                "text": "Cart"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "sourcesanspro",
+            "fontSize": "12",
+            "fontWeight": "400",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "regular",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#288ec1",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "sourcesanspro"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 440,
+      "y": 139,
+      "width": 21.21875,
+      "height": 15,
+      "x1": 0,
+      "y1": -1,
+      "x2": 21.21875,
+      "y2": 14,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#288ec1",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "sourcesanspro",
+      "text": "Cart"
+    }
+  ],
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51cfabaff8c"
+}

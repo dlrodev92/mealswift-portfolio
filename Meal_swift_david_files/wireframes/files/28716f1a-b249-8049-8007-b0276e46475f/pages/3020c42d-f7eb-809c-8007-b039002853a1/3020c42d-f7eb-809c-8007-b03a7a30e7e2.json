@@ -1,0 +1,143 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b03a7a30e7e2",
+  "name": "Pay Lbl 2",
+  "type": "text",
+  "x": 346,
+  "y": 1526,
+  "width": 62,
+  "height": 18,
+  "rotation": 0,
+  "selrect": {
+    "x": 346,
+    "y": 1526,
+    "width": 62,
+    "height": 18,
+    "x1": 346,
+    "y1": 1526,
+    "x2": 408,
+    "y2": 1544
+  },
+  "points": [
+    {
+      "x": 346,
+      "y": 1526
+    },
+    {
+      "x": 408,
+      "y": 1526
+    },
+    {
+      "x": 408,
+      "y": 1544
+    },
+    {
+      "x": 346,
+      "y": 1544
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b03a7948cb3d",
+  "frameId": "3020c42d-f7eb-809c-8007-b03a7948cb3d",
+  "flipX": null,
+  "flipY": null,
+  "growType": "auto-width",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "sourcesanspro",
+                "fontSize": "15",
+                "fontWeight": "400",
+                "textDirection": "ltr",
+                "fontVariantId": "regular",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#757575",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "sourcesanspro",
+                "text": "Apple Pay"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "sourcesanspro",
+            "fontSize": "15",
+            "fontWeight": "400",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "regular",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#757575",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "sourcesanspro"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 346,
+      "y": 1544,
+      "width": 61.765625,
+      "height": 19,
+      "x1": 0,
+      "y1": -1,
+      "x2": 61.765625,
+      "y2": 18,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#757575",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "sourcesanspro",
+      "text": "Apple Pay"
+    }
+  ],
+  "pageId": "3020c42d-f7eb-809c-8007-b039002853a1"
+}

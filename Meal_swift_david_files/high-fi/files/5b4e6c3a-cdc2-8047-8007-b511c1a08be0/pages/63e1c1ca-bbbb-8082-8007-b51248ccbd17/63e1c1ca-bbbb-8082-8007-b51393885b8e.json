@@ -1,0 +1,80 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51393885b8e",
+  "name": "Pill BG Burgers",
+  "type": "rect",
+  "x": 206,
+  "y": 640,
+  "width": 110,
+  "height": 40,
+  "rotation": 0,
+  "selrect": {
+    "x": 206,
+    "y": 640,
+    "width": 110,
+    "height": 40,
+    "x1": 206,
+    "y1": 640,
+    "x2": 316,
+    "y2": 680
+  },
+  "points": [
+    {
+      "x": 206,
+      "y": 640
+    },
+    {
+      "x": 316,
+      "y": 640
+    },
+    {
+      "x": 316,
+      "y": 680
+    },
+    {
+      "x": 206,
+      "y": 680
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b513935e730f",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b513935e730f",
+  "flipX": null,
+  "flipY": null,
+  "r2": 20,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51248ccbd17",
+  "r3": 20,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 20,
+  "strokes": [
+    {
+      "strokeColor": "#e0e0e0",
+      "strokeOpacity": 1,
+      "strokeWidth": 1
+    }
+  ],
+  "proportion": 1,
+  "r4": 20,
+  "fills": [
+    {
+      "fillColor": "#f9f9f9",
+      "fillOpacity": 1
+    }
+  ]
+}

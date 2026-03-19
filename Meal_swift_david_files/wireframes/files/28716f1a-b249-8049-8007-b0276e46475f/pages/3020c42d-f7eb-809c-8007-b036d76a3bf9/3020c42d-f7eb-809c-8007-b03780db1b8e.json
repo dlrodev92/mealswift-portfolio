@@ -1,0 +1,74 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b03780db1b8e",
+  "name": "MC Photo 9",
+  "type": "rect",
+  "x": 588,
+  "y": 1466,
+  "width": 100,
+  "height": 100,
+  "rotation": 0,
+  "selrect": {
+    "x": 588,
+    "y": 1466,
+    "width": 100,
+    "height": 100,
+    "x1": 588,
+    "y1": 1466,
+    "x2": 688,
+    "y2": 1566
+  },
+  "points": [
+    {
+      "x": 588,
+      "y": 1466
+    },
+    {
+      "x": 688,
+      "y": 1466
+    },
+    {
+      "x": 688,
+      "y": 1566
+    },
+    {
+      "x": 588,
+      "y": 1566
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b0377f5282d9",
+  "frameId": "3020c42d-f7eb-809c-8007-b0377f5282d9",
+  "flipX": null,
+  "flipY": null,
+  "r2": 0,
+  "proportionLock": false,
+  "pageId": "3020c42d-f7eb-809c-8007-b036d76a3bf9",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillColor": "#e0e0e0",
+      "fillOpacity": 1
+    }
+  ]
+}

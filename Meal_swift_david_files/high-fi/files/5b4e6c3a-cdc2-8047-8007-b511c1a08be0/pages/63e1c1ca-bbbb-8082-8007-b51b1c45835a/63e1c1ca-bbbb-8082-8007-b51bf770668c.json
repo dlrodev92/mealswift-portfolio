@@ -1,0 +1,74 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51bf770668c",
+  "name": "CartDiv_856",
+  "type": "rect",
+  "x": 1072,
+  "y": 856,
+  "width": 324,
+  "height": 1,
+  "rotation": 0,
+  "selrect": {
+    "x": 1072,
+    "y": 856,
+    "width": 324,
+    "height": 1,
+    "x1": 1072,
+    "y1": 856,
+    "x2": 1396,
+    "y2": 857
+  },
+  "points": [
+    {
+      "x": 1072,
+      "y": 856
+    },
+    {
+      "x": 1396,
+      "y": 856
+    },
+    {
+      "x": 1396,
+      "y": 857
+    },
+    {
+      "x": 1072,
+      "y": 857
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51bf6aeb1ec",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51bf6aeb1ec",
+  "flipX": null,
+  "flipY": null,
+  "r2": 0,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51b1c45835a",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillColor": "#e0e0e0",
+      "fillOpacity": 1
+    }
+  ]
+}

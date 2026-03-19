@@ -1,0 +1,81 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51a3b811e75",
+  "name": "Img Burger Palace",
+  "type": "rect",
+  "x": 304,
+  "y": 224.00000000000003,
+  "width": 340,
+  "height": 159.99999999999997,
+  "rotation": 0,
+  "selrect": {
+    "x": 304,
+    "y": 224.00000000000003,
+    "width": 340,
+    "height": 159.99999999999997,
+    "x1": 304,
+    "y1": 224.00000000000003,
+    "x2": 644,
+    "y2": 384
+  },
+  "points": [
+    {
+      "x": 304,
+      "y": 224
+    },
+    {
+      "x": 644,
+      "y": 224
+    },
+    {
+      "x": 644,
+      "y": 383.99999999999994
+    },
+    {
+      "x": 304,
+      "y": 383.99999999999994
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51a3b79d86d",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51a3b79d86d",
+  "flipX": null,
+  "flipY": null,
+  "r2": 0,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51996880da3",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillOpacity": 1,
+      "fillImage": {
+        "id": "ddc4a96c-d2ad-80ac-8007-b51a1e7d4f03",
+        "name": "img-burger",
+        "width": 400,
+        "height": 267,
+        "mtype": "image\/jpeg",
+        "keepAspectRatio": false
+      }
+    }
+  ]
+}

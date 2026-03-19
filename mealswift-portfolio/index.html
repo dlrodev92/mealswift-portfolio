@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MealSwift — UI/UX Design Portfolio · ACCA5019</title>
+  <meta name="description" content="MealSwift Website Redesign — UI/UX portfolio by David Lopez Rodriguez. ACCA5019, University of Wales Trinity Saint David, 2026.">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/tokens.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/nav.css">
+  <link rel="stylesheet" href="css/hero.css">
+  <link rel="stylesheet" href="css/moodboard.css">
+  <link rel="stylesheet" href="css/wireframes.css">
+  <link rel="stylesheet" href="css/hifi.css">
+  <link rel="stylesheet" href="css/decisions.css">
+</head>
+<body>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     NAV
+════════════════════════════════════════════════════════════════════════════ -->
+<nav class="nav" role="navigation" aria-label="Main navigation">
+  <div class="nav__logo">Meal<span>Swift</span></div>
+  <ul class="nav__links">
+    <li><a href="#moodboard">Mood Board</a></li>
+    <li><a href="#wireframes">Wireframes</a></li>
+    <li><a href="#hifi">Hi-Fi</a></li>
+    <li><a href="#decisions">Design Decisions</a></li>
+  </ul>
+</nav>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     HERO
+════════════════════════════════════════════════════════════════════════════ -->
+<section class="hero" aria-label="Introduction">
+  <div class="hero__inner">
+    <p class="hero__eyebrow">ACCA5019 &middot; UI/UX Portfolio &middot; 2026</p>
+    <h1 class="hero__title">MEAL<em>SWIFT</em></h1>
+    <p class="hero__desc">
+      A complete UI/UX redesign of MealSwift's food delivery platform &mdash;
+      researched, wireframed, and prototyped from the ground up.
+    </p>
+  </div>
+
+  <div class="phase-strip" role="list">
+    <div class="phase-strip__item" role="listitem">
+      <div class="phase-strip__num" aria-hidden="true">01</div>
+      <div>
+        <div class="phase-strip__label">Phase One</div>
+        <div class="phase-strip__name">Research &amp; Strategy</div>
+      </div>
+    </div>
+    <div class="phase-strip__item" role="listitem">
+      <div class="phase-strip__num" aria-hidden="true">02</div>
+      <div>
+        <div class="phase-strip__label">Phase Two</div>
+        <div class="phase-strip__name">Mood Board</div>
+      </div>
+    </div>
+    <div class="phase-strip__item" role="listitem">
+      <div class="phase-strip__num" aria-hidden="true">03</div>
+      <div>
+        <div class="phase-strip__label">Phase Three</div>
+        <div class="phase-strip__name">Wireframes</div>
+      </div>
+    </div>
+    <div class="phase-strip__item" role="listitem">
+      <div class="phase-strip__num" aria-hidden="true">04</div>
+      <div>
+        <div class="phase-strip__label">Phase Four</div>
+        <div class="phase-strip__name">Hi-Fi Prototype</div>
+      </div>
+    </div>
+    <div class="phase-strip__item" role="listitem">
+      <div class="phase-strip__num" aria-hidden="true">05</div>
+      <div>
+        <div class="phase-strip__label">Phase Five</div>
+        <div class="phase-strip__name">Academic Report</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     MOOD BOARD
+════════════════════════════════════════════════════════════════════════════ -->
+<section id="moodboard" aria-labelledby="mb-title">
+  <div class="container">
+
+    <div class="section__header reveal">
+      <p class="eyebrow">Phase 02</p>
+      <h2 class="section-title" id="mb-title">Mood Board</h2>
+    </div>
+
+    <div class="moodboard__layout reveal">
+
+      <!-- Main image -->
+      <div class="moodboard__img-card img-card" role="img" aria-label="MealSwift mood board">
+        <img
+          src="../Meal_swift_david_files/mealswift_moodboard.png"
+          alt="MealSwift Mood Board — brand colour palette, typography, photography direction, and competitor analysis"
+          loading="eager"
+        >
+      </div>
+
+      <!-- Sidebar info cards -->
+      <aside class="moodboard__sidebar" aria-label="Brand overview">
+
+        <div class="info-card">
+          <p class="info-card__label">Brand Palette</p>
+          <div class="palette-list">
+            <div class="palette-item">
+              <div class="palette-swatch" style="background:#288EC1;" role="img" aria-label="Ocean Blue"></div>
+              <div>
+                <div class="palette-name">Ocean Blue</div>
+                <div class="palette-hex">#288EC1 &mdash; Trust &amp; Clarity</div>
+              </div>
+            </div>
+            <div class="palette-item">
+              <div class="palette-swatch" style="background:#E1ED30; border-color:rgba(255,255,255,0.05);" role="img" aria-label="Lime Yellow"></div>
+              <div>
+                <div class="palette-name">Lime Yellow</div>
+                <div class="palette-hex">#E1ED30 &mdash; Energy &amp; Appetite</div>
+              </div>
+            </div>
+            <div class="palette-item">
+              <div class="palette-swatch" style="background:#F5F5F0;" role="img" aria-label="Off-White"></div>
+              <div>
+                <div class="palette-name">Off-White</div>
+                <div class="palette-hex">#F5F5F0 &mdash; Clean Space</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="info-card">
+          <p class="info-card__label">Brand Keywords</p>
+          <div class="keyword-list" role="list">
+            <span class="keyword-tag" role="listitem">Swift</span>
+            <span class="keyword-tag" role="listitem">Fresh</span>
+            <span class="keyword-tag" role="listitem">Trustworthy</span>
+            <span class="keyword-tag" role="listitem">Bold</span>
+            <span class="keyword-tag" role="listitem">Clean</span>
+            <span class="keyword-tag" role="listitem">Convenient</span>
+          </div>
+        </div>
+
+        <div class="info-card">
+          <p class="info-card__label">Primary Typeface</p>
+          <div class="typeface-sample">Aa Bb Cc 123</div>
+          <div class="typeface-note">
+            Cascadia Mono<br>
+            Primary typeface &mdash; monospaced for clarity
+          </div>
+        </div>
+
+      </aside>
+    </div><!-- /.moodboard__layout -->
+
+    <!-- Download -->
+    <div class="download-row reveal">
+      <a
+        href="../Meal_swift_david_files/mealswift_moodboard.png"
+        download="MealSwift-MoodBoard.png"
+        class="download-btn"
+        aria-label="Download mood board image"
+      >
+        <svg viewBox="0 0 14 14" fill="none" aria-hidden="true">
+          <path d="M7 1v8M3.5 6l3.5 4 3.5-4M1 11h12" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        Download Mood Board
+      </a>
+    </div>
+
+  </div><!-- /.container -->
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     WIREFRAMES
+════════════════════════════════════════════════════════════════════════════ -->
+<section id="wireframes" class="section--raised" aria-labelledby="wf-title">
+  <div class="container">
+
+    <div class="section__header reveal">
+      <p class="eyebrow">Phase 03</p>
+      <h2 class="section-title" id="wf-title">Wireframes</h2>
+    </div>
+
+    <div class="wireframes__grid">
+
+      <div class="img-card reveal reveal-d1">
+        <img src="../Meal_swift_david_files/wireframes/objects/cca3a86f-6b49-458f-abd4-585ce281f004.png" alt="Homepage wireframe" loading="lazy">
+        <div class="img-card__label">01 — Homepage</div>
+      </div>
+
+      <div class="img-card reveal reveal-d2">
+        <img src="../Meal_swift_david_files/wireframes/objects/dc566e59-452e-4c87-9876-bbdbb612786e.png" alt="Restaurant Listing wireframe" loading="lazy">
+        <div class="img-card__label">02 — Restaurant Listing</div>
+      </div>
+
+      <div class="img-card reveal reveal-d3">
+        <img src="../Meal_swift_david_files/wireframes/objects/dd4ce9f9-3a90-4568-94b5-aec3b2e073de.png" alt="Restaurant Menu wireframe" loading="lazy">
+        <div class="img-card__label">03 — Restaurant Menu</div>
+      </div>
+
+      <div class="img-card reveal reveal-d4">
+        <img src="../Meal_swift_david_files/wireframes/objects/2f25d5ae-b6e4-4bce-9749-2b94ca550956.png" alt="Checkout wireframe" loading="lazy">
+        <div class="img-card__label">04 — Checkout</div>
+      </div>
+
+      <div class="img-card reveal reveal-d5">
+        <img src="../Meal_swift_david_files/wireframes/objects/b27daf15-22d5-4411-95b4-39bb86b0cad4.png" alt="Order Tracking wireframe" loading="lazy">
+        <div class="img-card__label">05 — Order Tracking</div>
+      </div>
+
+      <div class="img-card reveal reveal-d6">
+        <img src="../Meal_swift_david_files/wireframes/objects/ab39be13-5ea2-482b-90fe-dafb21677d8e.png" alt="Sign In wireframe" loading="lazy">
+        <div class="img-card__label">06 — Sign In</div>
+      </div>
+
+    </div><!-- /.wireframes__grid -->
+
+    <!-- Download -->
+    <div class="download-row reveal">
+      <a
+        href="../Meal_swift_david_files/wireframes.penpot"
+        download="MealSwift-Wireframes.penpot"
+        class="download-btn"
+        aria-label="Download wireframes Penpot file"
+      >
+        <svg viewBox="0 0 14 14" fill="none" aria-hidden="true">
+          <path d="M7 1v8M3.5 6l3.5 4 3.5-4M1 11h12" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        Download Wireframes (.penpot)
+      </a>
+    </div>
+
+  </div><!-- /.container -->
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     HI-FI PROTOTYPE
+════════════════════════════════════════════════════════════════════════════ -->
+<section id="hifi" aria-labelledby="hifi-title">
+  <div class="container">
+
+    <div class="section__header reveal">
+      <p class="eyebrow">Phase 04</p>
+      <h2 class="section-title" id="hifi-title">High-Fidelity Prototype</h2>
+    </div>
+
+    <div class="reveal">
+      <!-- Tab bar — 2 tabs (Assets removed) -->
+      <div class="hifi__tabs" role="tablist" aria-label="Prototype views">
+        <button class="hifi__tab is-active" role="tab" aria-selected="true"  data-tab="hifi-all">All Screens</button>
+        <button class="hifi__tab"           role="tab" aria-selected="false" data-tab="hifi-frames">UI Frames</button>
+      </div>
+
+      <!-- Annotation -->
+      <p class="hifi__annotation">
+        Five key pages designed at 1440px desktop viewport: Homepage, Restaurant Listing,
+        Menu Detail, Checkout, and Order Tracking. The prototype demonstrates the complete
+        user journey from discovery to post-order tracking.
+      </p>
+
+      <!-- ── Panel: All Screens ── -->
+      <div class="hifi__panel is-active" id="hifi-all" data-panel="hifi-all" role="tabpanel">
+        <div class="hifi__grid">
+
+          <div class="img-card">
+            <img src="../Meal_swift_david_files/high-fi/objects/b1a91d82-ce20-42ab-b346-29c109f13a8c.png" alt="Homepage" loading="lazy">
+            <div class="img-card__label">01 — Homepage</div>
+          </div>
+          <div class="img-card">
+            <img src="../Meal_swift_david_files/high-fi/objects/817ee323-80be-47e7-85f4-ca13224b65e7.png" alt="Restaurant Listing" loading="lazy">
+            <div class="img-card__label">02 — Restaurant Listing</div>
+          </div>
+          <div class="img-card">
+            <img src="../Meal_swift_david_files/high-fi/objects/2a7bc73a-308a-4150-b64a-551b7423b223.png" alt="Restaurant Menu" loading="lazy">
+            <div class="img-card__label">03 — Restaurant Menu</div>
+          </div>
+          <div class="img-card">
+            <img src="../Meal_swift_david_files/high-fi/objects/00dc2ba2-930f-4335-900b-e37a2d986b02.png" alt="Checkout" loading="lazy">
+            <div class="img-card__label">04 — Checkout</div>
+          </div>
+          <div class="img-card">
+            <img src="../Meal_swift_david_files/high-fi/objects/b1ae9160-0e45-4b3c-971b-4e3155b85698.png" alt="Order Tracking" loading="lazy">
+            <div class="img-card__label">05 — Order Tracking</div>
+          </div>
+          <div class="img-card">
+            <img src="../Meal_swift_david_files/high-fi/objects/6a3ab961-6b9f-4a35-aefa-4de7ffed734d.png" alt="Sign In" loading="lazy">
+            <div class="img-card__label">06 — Sign In</div>
+          </div>
+
+        </div><!-- /.hifi__grid -->
+      </div><!-- /#hifi-all -->
+
+      <!-- ── Panel: UI Frames (same 6 PNGs) ── -->
+      <div class="hifi__panel" id="hifi-frames" data-panel="hifi-frames" role="tabpanel">
+        <div class="hifi__grid">
+
+          <div class="img-card">
+            <img src="../Meal_swift_david_files/high-fi/objects/b1a91d82-ce20-42ab-b346-29c109f13a8c.png" alt="Homepage" loading="lazy">
+            <div class="img-card__label">01 — Homepage</div>
+          </div>
+          <div class="img-card">
+            <img src="../Meal_swift_david_files/high-fi/objects/817ee323-80be-47e7-85f4-ca13224b65e7.png" alt="Restaurant Listing" loading="lazy">
+            <div class="img-card__label">02 — Restaurant Listing</div>
+          </div>
+          <div class="img-card">
+            <img src="../Meal_swift_david_files/high-fi/objects/2a7bc73a-308a-4150-b64a-551b7423b223.png" alt="Restaurant Menu" loading="lazy">
+            <div class="img-card__label">03 — Restaurant Menu</div>
+          </div>
+          <div class="img-card">
+            <img src="../Meal_swift_david_files/high-fi/objects/00dc2ba2-930f-4335-900b-e37a2d986b02.png" alt="Checkout" loading="lazy">
+            <div class="img-card__label">04 — Checkout</div>
+          </div>
+          <div class="img-card">
+            <img src="../Meal_swift_david_files/high-fi/objects/b1ae9160-0e45-4b3c-971b-4e3155b85698.png" alt="Order Tracking" loading="lazy">
+            <div class="img-card__label">05 — Order Tracking</div>
+          </div>
+          <div class="img-card">
+            <img src="../Meal_swift_david_files/high-fi/objects/6a3ab961-6b9f-4a35-aefa-4de7ffed734d.png" alt="Sign In" loading="lazy">
+            <div class="img-card__label">06 — Sign In</div>
+          </div>
+
+        </div><!-- /.hifi__grid -->
+      </div><!-- /#hifi-frames -->
+
+    </div><!-- /.reveal -->
+
+    <!-- Download -->
+    <div class="download-row reveal">
+      <a
+        href="../Meal_swift_david_files/high-fi.penpot"
+        download="MealSwift-HiFi.penpot"
+        class="download-btn"
+        aria-label="Download hi-fi prototype Penpot file"
+      >
+        <svg viewBox="0 0 14 14" fill="none" aria-hidden="true">
+          <path d="M7 1v8M3.5 6l3.5 4 3.5-4M1 11h12" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        Download Hi-Fi (.penpot)
+      </a>
+    </div>
+
+  </div><!-- /.container -->
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     DESIGN DECISIONS
+════════════════════════════════════════════════════════════════════════════ -->
+<section id="decisions" class="section--raised" aria-labelledby="dd-title">
+  <div class="container">
+
+    <div class="section__header reveal">
+      <p class="eyebrow">Design Rationale</p>
+      <h2 class="section-title" id="dd-title">Key Decisions</h2>
+    </div>
+
+    <div class="decisions__grid">
+
+      <div class="decision-card reveal">
+        <div class="decision-card__icon" aria-hidden="true">🎨</div>
+        <h3 class="decision-card__title">Colour Psychology</h3>
+        <p class="decision-card__body">
+          Ocean Blue (#288EC1) communicates trust and reliability. Lime Yellow (#E1ED30)
+          stimulates appetite and creates energy without replicating competitors like
+          Deliveroo (teal) or Uber Eats (green/black). Deliberate differentiation through colour.
+        </p>
+      </div>
+
+      <div class="decision-card reveal reveal-d1">
+        <div class="decision-card__icon" aria-hidden="true">📱</div>
+        <h3 class="decision-card__title">Mobile-First Responsive</h3>
+        <p class="decision-card__body">
+          All pages designed at 375px mobile first, then scaled to 1440px desktop.
+          Directly addresses MealSwift's non-responsive layout causing drop-offs on
+          mobile devices. WCAG&nbsp;2.1&nbsp;AA compliant.
+        </p>
+      </div>
+
+      <div class="decision-card reveal reveal-d2">
+        <div class="decision-card__icon" aria-hidden="true">🧠</div>
+        <h3 class="decision-card__title">Nielsen's Heuristics</h3>
+        <p class="decision-card__body">
+          Navigation redesign applies Visibility of System Status and User Control
+          principles. Real-time order tracking (page&nbsp;5) resolves the core
+          post-order anxiety identified in the problem analysis.
+        </p>
+      </div>
+
+      <div class="decision-card reveal">
+        <div class="decision-card__icon" aria-hidden="true">👁️</div>
+        <h3 class="decision-card__title">Gestalt Principles</h3>
+        <p class="decision-card__body">
+          Proximity and similarity group restaurant cards and menu items into scannable
+          clusters. Consistent visual hierarchy across all 5 pages reduces cognitive
+          load and supports quick decision-making.
+        </p>
+      </div>
+
+      <div class="decision-card reveal reveal-d1">
+        <div class="decision-card__icon" aria-hidden="true">🛒</div>
+        <h3 class="decision-card__title">Conversion Optimisation</h3>
+        <p class="decision-card__body">
+          Sticky cart panel, trust badges, and a prominent Place Order CTA address
+          abandoned cart issues. The two-column checkout layout minimises friction
+          at the most critical conversion point.
+        </p>
+      </div>
+
+      <div class="decision-card reveal reveal-d2">
+        <div class="decision-card__icon" aria-hidden="true">♿</div>
+        <h3 class="decision-card__title">Accessibility (WCAG&nbsp;2.1)</h3>
+        <p class="decision-card__body">
+          Colour contrast ratios verified for AA compliance. Cascadia Mono chosen
+          for legibility. Clear focus states, descriptive labels, and logical tab
+          order ensure inclusive access for all users.
+        </p>
+      </div>
+
+    </div><!-- /.decisions__grid -->
+  </div><!-- /.container -->
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     FOOTER
+════════════════════════════════════════════════════════════════════════════ -->
+<footer style="
+  padding: var(--space-xl) var(--page-pad);
+  border-top: 1px solid var(--color-border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: var(--max-width);
+  margin: 0 auto;
+">
+  <div style="font-family:var(--font-display);font-size:1.4rem;letter-spacing:0.08em;">
+    Meal<span style="color:var(--color-accent);">Swift</span>
+  </div>
+  <div style="font-family:var(--font-mono);font-size:0.6rem;letter-spacing:0.1em;color:var(--color-text-muted);text-align:right;line-height:1.9;">
+    ACCA5019 &mdash; Business and Web Management<br>
+    Component 1 &middot; Website Redesign &middot; 27th March 2026
+  </div>
+</footer>
+
+<!-- Scripts -->
+<script src="js/tabs.js"></script>
+<script src="js/lightbox.js"></script>
+<script src="js/main.js"></script>
+
+</body>
+</html>

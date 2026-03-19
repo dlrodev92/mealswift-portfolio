@@ -1,0 +1,74 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b037818ecc8d",
+  "name": "MC Add 14",
+  "type": "rect",
+  "x": 1126,
+  "y": 1858,
+  "width": 40,
+  "height": 40,
+  "rotation": 0,
+  "selrect": {
+    "x": 1126,
+    "y": 1858,
+    "width": 40,
+    "height": 40,
+    "x1": 1126,
+    "y1": 1858,
+    "x2": 1166,
+    "y2": 1898
+  },
+  "points": [
+    {
+      "x": 1126,
+      "y": 1858
+    },
+    {
+      "x": 1166,
+      "y": 1858
+    },
+    {
+      "x": 1166,
+      "y": 1898
+    },
+    {
+      "x": 1126,
+      "y": 1898
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b0377f5282d9",
+  "frameId": "3020c42d-f7eb-809c-8007-b0377f5282d9",
+  "flipX": null,
+  "flipY": null,
+  "r2": 20,
+  "proportionLock": false,
+  "pageId": "3020c42d-f7eb-809c-8007-b036d76a3bf9",
+  "r3": 20,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 20,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 20,
+  "fills": [
+    {
+      "fillColor": "#e0e0e0",
+      "fillOpacity": 1
+    }
+  ]
+}

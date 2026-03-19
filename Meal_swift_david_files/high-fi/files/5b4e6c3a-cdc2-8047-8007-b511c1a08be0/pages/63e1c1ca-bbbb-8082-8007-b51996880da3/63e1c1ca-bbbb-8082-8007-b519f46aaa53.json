@@ -1,0 +1,74 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b519f46aaa53",
+  "name": "Slider Track",
+  "type": "rect",
+  "x": 24,
+  "y": 852,
+  "width": 232,
+  "height": 4,
+  "rotation": 0,
+  "selrect": {
+    "x": 24,
+    "y": 852,
+    "width": 232,
+    "height": 4,
+    "x1": 24,
+    "y1": 852,
+    "x2": 256,
+    "y2": 856
+  },
+  "points": [
+    {
+      "x": 24,
+      "y": 852
+    },
+    {
+      "x": 256,
+      "y": 852
+    },
+    {
+      "x": 256,
+      "y": 856
+    },
+    {
+      "x": 24,
+      "y": 856
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b519e13f8b70",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b519e13f8b70",
+  "flipX": null,
+  "flipY": null,
+  "r2": 2,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51996880da3",
+  "r3": 2,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 2,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 2,
+  "fills": [
+    {
+      "fillColor": "#e0e0e0",
+      "fillOpacity": 1
+    }
+  ]
+}

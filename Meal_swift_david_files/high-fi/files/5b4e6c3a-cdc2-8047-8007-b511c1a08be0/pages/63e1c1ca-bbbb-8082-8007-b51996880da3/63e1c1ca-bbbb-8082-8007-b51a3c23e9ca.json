@@ -1,0 +1,81 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51a3c23e9ca",
+  "name": "Img Pasta House",
+  "type": "rect",
+  "x": 690,
+  "y": 548,
+  "width": 340,
+  "height": 159.9999999999999,
+  "rotation": 0,
+  "selrect": {
+    "x": 690,
+    "y": 548,
+    "width": 340,
+    "height": 159.9999999999999,
+    "x1": 690,
+    "y1": 548,
+    "x2": 1030,
+    "y2": 707.9999999999999
+  },
+  "points": [
+    {
+      "x": 690,
+      "y": 548
+    },
+    {
+      "x": 1030,
+      "y": 548
+    },
+    {
+      "x": 1030,
+      "y": 707.9999999999999
+    },
+    {
+      "x": 690,
+      "y": 707.9999999999999
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51a3c1bcabd",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51a3c1bcabd",
+  "flipX": null,
+  "flipY": null,
+  "r2": 0,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51996880da3",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillOpacity": 1,
+      "fillImage": {
+        "id": "5b4e6c3a-cdc2-8047-8007-b51a1f4891bc",
+        "name": "img-pasta",
+        "width": 400,
+        "height": 267,
+        "mtype": "image\/jpeg",
+        "keepAspectRatio": false
+      }
+    }
+  ]
+}

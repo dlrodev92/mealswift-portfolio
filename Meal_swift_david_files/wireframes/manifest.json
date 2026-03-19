@@ -1,0 +1,21 @@
+{
+  "type": "penpot\/export-files",
+  "version": 1,
+  "generatedBy": "penpot\/2.14.0-RC4",
+  "refer": "penpot",
+  "files": [
+    {
+      "id": "28716f1a-b249-8049-8007-b0276e46475f",
+      "name": "New File 1",
+      "features": [
+        "fdata\/path-data",
+        "design-tokens\/v1",
+        "variants\/v1",
+        "layout\/grid",
+        "components\/v2",
+        "fdata\/shape-data-type"
+      ]
+    }
+  ],
+  "relations": []
+}

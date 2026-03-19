@@ -1,0 +1,70 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b519f4765eaf",
+  "name": "Handle Left",
+  "type": "circle",
+  "x": 18,
+  "y": 846,
+  "width": 16,
+  "height": 16,
+  "rotation": 0,
+  "selrect": {
+    "x": 18,
+    "y": 846,
+    "width": 16,
+    "height": 16,
+    "x1": 18,
+    "y1": 846,
+    "x2": 34,
+    "y2": 862
+  },
+  "points": [
+    {
+      "x": 18,
+      "y": 846
+    },
+    {
+      "x": 34,
+      "y": 846
+    },
+    {
+      "x": 34,
+      "y": 862
+    },
+    {
+      "x": 18,
+      "y": 862
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b519e13f8b70",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b519e13f8b70",
+  "flipX": null,
+  "flipY": null,
+  "proportionLock": false,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "strokes": [],
+  "proportion": 1,
+  "fills": [
+    {
+      "fillColor": "#288ec1",
+      "fillOpacity": 1
+    }
+  ],
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51996880da3"
+}

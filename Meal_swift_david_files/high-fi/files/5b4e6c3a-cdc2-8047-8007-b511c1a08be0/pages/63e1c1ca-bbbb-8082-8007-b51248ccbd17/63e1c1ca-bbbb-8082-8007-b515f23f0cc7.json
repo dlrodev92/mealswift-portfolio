@@ -1,0 +1,82 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b515f23f0cc7",
+  "name": "Nav Bar",
+  "type": "frame",
+  "x": 0,
+  "y": 0,
+  "width": 1440,
+  "height": 72,
+  "rotation": 0,
+  "selrect": {
+    "x": 0,
+    "y": 0,
+    "width": 1440,
+    "height": 72,
+    "x1": 0,
+    "y1": 0,
+    "x2": 1440,
+    "y2": 72
+  },
+  "points": [
+    {
+      "x": 0,
+      "y": 0
+    },
+    {
+      "x": 1440,
+      "y": 0
+    },
+    {
+      "x": 1440,
+      "y": 72
+    },
+    {
+      "x": 0,
+      "y": 72
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b515e8fd1b12",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b515e8fd1b12",
+  "flipX": null,
+  "flipY": null,
+  "hideFillOnExport": false,
+  "hideInViewer": true,
+  "r2": 0,
+  "showContent": false,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51248ccbd17",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillColor": "#ffffff",
+      "fillOpacity": 1
+    }
+  ],
+  "shapes": [
+    "63e1c1ca-bbbb-8082-8007-b515f25686ca",
+    "63e1c1ca-bbbb-8082-8007-b515f24f1c32",
+    "63e1c1ca-bbbb-8082-8007-b515f2476a2b"
+  ]
+}

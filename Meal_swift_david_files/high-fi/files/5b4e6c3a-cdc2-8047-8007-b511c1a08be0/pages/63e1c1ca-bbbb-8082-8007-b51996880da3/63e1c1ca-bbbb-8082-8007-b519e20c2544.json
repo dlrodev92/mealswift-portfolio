@@ -1,0 +1,76 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b519e20c2544",
+  "name": "Radio Under 20 min",
+  "type": "circle",
+  "x": 24,
+  "y": 708,
+  "width": 16,
+  "height": 16,
+  "rotation": 0,
+  "selrect": {
+    "x": 24,
+    "y": 708,
+    "width": 16,
+    "height": 16,
+    "x1": 24,
+    "y1": 708,
+    "x2": 40,
+    "y2": 724
+  },
+  "points": [
+    {
+      "x": 24,
+      "y": 708
+    },
+    {
+      "x": 40,
+      "y": 708
+    },
+    {
+      "x": 40,
+      "y": 724
+    },
+    {
+      "x": 24,
+      "y": 724
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b519e13f8b70",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b519e13f8b70",
+  "flipX": null,
+  "flipY": null,
+  "proportionLock": false,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "strokes": [
+    {
+      "strokeColor": "#288ec1",
+      "strokeOpacity": 1,
+      "strokeWidth": 1
+    }
+  ],
+  "proportion": 1,
+  "fills": [
+    {
+      "fillColor": "#ffffff",
+      "fillOpacity": 1
+    }
+  ],
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51996880da3"
+}

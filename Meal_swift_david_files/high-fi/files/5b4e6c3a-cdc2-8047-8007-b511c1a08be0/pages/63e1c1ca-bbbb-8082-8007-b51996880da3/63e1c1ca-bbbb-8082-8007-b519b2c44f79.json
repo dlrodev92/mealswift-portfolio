@@ -1,0 +1,104 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b519b2c44f79",
+  "name": "Nav Bar",
+  "type": "frame",
+  "x": 0,
+  "y": 0,
+  "width": 1440,
+  "height": 72,
+  "rotation": 0,
+  "selrect": {
+    "x": 0,
+    "y": 0,
+    "width": 1440,
+    "height": 72,
+    "x1": 0,
+    "y1": 0,
+    "x2": 1440,
+    "y2": 72
+  },
+  "points": [
+    {
+      "x": 0,
+      "y": 0
+    },
+    {
+      "x": 1440,
+      "y": 0
+    },
+    {
+      "x": 1440,
+      "y": 72
+    },
+    {
+      "x": 0,
+      "y": 72
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b5199c96a0ec",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b5199c96a0ec",
+  "flipX": null,
+  "flipY": null,
+  "hideFillOnExport": false,
+  "hideInViewer": true,
+  "r2": 0,
+  "showContent": false,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51996880da3",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "shadow": [
+    {
+      "id": "63e1c1ca-bbbb-8082-8007-b519b2ccf3c6",
+      "style": "drop-shadow",
+      "color": {
+        "color": "#000000",
+        "opacity": 0.08
+      },
+      "offsetX": 0,
+      "offsetY": 2,
+      "blur": 8,
+      "spread": 0,
+      "hidden": false
+    }
+  ],
+  "r4": 0,
+  "fills": [
+    {
+      "fillColor": "#ffffff",
+      "fillOpacity": 1
+    }
+  ],
+  "shapes": [
+    "63e1c1ca-bbbb-8082-8007-b519b2cf52bd",
+    "63e1c1ca-bbbb-8082-8007-b519b2e57684",
+    "63e1c1ca-bbbb-8082-8007-b519b310201d",
+    "63e1c1ca-bbbb-8082-8007-b519b32127ec",
+    "63e1c1ca-bbbb-8082-8007-b519b2d8249b",
+    "63e1c1ca-bbbb-8082-8007-b519b2f153ac",
+    "63e1c1ca-bbbb-8082-8007-b519b2fb4f33",
+    "63e1c1ca-bbbb-8082-8007-b519b30644ea",
+    "63e1c1ca-bbbb-8082-8007-b519b31a52bd",
+    "63e1c1ca-bbbb-8082-8007-b519b32786d4"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b03c2191ed96",
+  "name": "Driver Photo",
+  "type": "rect",
+  "x": 244,
+  "y": 1068,
+  "width": 64,
+  "height": 64,
+  "rotation": 0,
+  "selrect": {
+    "x": 244,
+    "y": 1068,
+    "width": 64,
+    "height": 64,
+    "x1": 244,
+    "y1": 1068,
+    "x2": 308,
+    "y2": 1132
+  },
+  "points": [
+    {
+      "x": 244,
+      "y": 1068
+    },
+    {
+      "x": 308,
+      "y": 1068
+    },
+    {
+      "x": 308,
+      "y": 1132
+    },
+    {
+      "x": 244,
+      "y": 1132
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b03c211d5978",
+  "frameId": "3020c42d-f7eb-809c-8007-b03c211d5978",
+  "flipX": null,
+  "flipY": null,
+  "r2": 32,
+  "proportionLock": false,
+  "pageId": "3020c42d-f7eb-809c-8007-b03a8dd6bcda",
+  "r3": 32,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 32,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 32,
+  "fills": [
+    {
+      "fillColor": "#bdbdbd",
+      "fillOpacity": 1
+    }
+  ]
+}

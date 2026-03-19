@@ -1,0 +1,74 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b03c226cf643",
+  "name": "App Store Badge",
+  "type": "rect",
+  "x": 1220,
+  "y": 1362,
+  "width": 120,
+  "height": 36,
+  "rotation": 0,
+  "selrect": {
+    "x": 1220,
+    "y": 1362,
+    "width": 120,
+    "height": 36,
+    "x1": 1220,
+    "y1": 1362,
+    "x2": 1340,
+    "y2": 1398
+  },
+  "points": [
+    {
+      "x": 1220,
+      "y": 1362
+    },
+    {
+      "x": 1340,
+      "y": 1362
+    },
+    {
+      "x": 1340,
+      "y": 1398
+    },
+    {
+      "x": 1220,
+      "y": 1398
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b03c211d5978",
+  "frameId": "3020c42d-f7eb-809c-8007-b03c211d5978",
+  "flipX": null,
+  "flipY": null,
+  "r2": 4,
+  "proportionLock": false,
+  "pageId": "3020c42d-f7eb-809c-8007-b03a8dd6bcda",
+  "r3": 4,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 4,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 4,
+  "fills": [
+    {
+      "fillColor": "#757575",
+      "fillOpacity": 1
+    }
+  ]
+}

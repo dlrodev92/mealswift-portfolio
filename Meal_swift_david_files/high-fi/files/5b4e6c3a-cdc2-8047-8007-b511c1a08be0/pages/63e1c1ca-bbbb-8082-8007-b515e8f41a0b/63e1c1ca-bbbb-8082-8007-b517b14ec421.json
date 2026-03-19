@@ -1,0 +1,74 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b517b14ec421",
+  "name": "Google Icon",
+  "type": "rect",
+  "x": 856,
+  "y": 286,
+  "width": 20,
+  "height": 20,
+  "rotation": 0,
+  "selrect": {
+    "x": 856,
+    "y": 286,
+    "width": 20,
+    "height": 20,
+    "x1": 856,
+    "y1": 286,
+    "x2": 876,
+    "y2": 306
+  },
+  "points": [
+    {
+      "x": 856,
+      "y": 286
+    },
+    {
+      "x": 876,
+      "y": 286
+    },
+    {
+      "x": 876,
+      "y": 306
+    },
+    {
+      "x": 856,
+      "y": 306
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b517b1246343",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b517b1246343",
+  "flipX": null,
+  "flipY": null,
+  "r2": 4,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b515e8f41a0b",
+  "r3": 4,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 4,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 4,
+  "fills": [
+    {
+      "fillColor": "#e0e0e0",
+      "fillOpacity": 1
+    }
+  ]
+}

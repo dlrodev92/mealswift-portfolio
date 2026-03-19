@@ -1,0 +1,74 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51485afea2c",
+  "name": "Badge Google Play",
+  "type": "rect",
+  "x": 860,
+  "y": 2168,
+  "width": 140,
+  "height": 44,
+  "rotation": 0,
+  "selrect": {
+    "x": 860,
+    "y": 2168,
+    "width": 140,
+    "height": 44,
+    "x1": 860,
+    "y1": 2168,
+    "x2": 1000,
+    "y2": 2212
+  },
+  "points": [
+    {
+      "x": 860,
+      "y": 2168
+    },
+    {
+      "x": 1000,
+      "y": 2168
+    },
+    {
+      "x": 1000,
+      "y": 2212
+    },
+    {
+      "x": 860,
+      "y": 2212
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b5148514b361",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b5148514b361",
+  "flipX": null,
+  "flipY": null,
+  "r2": 8,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51248ccbd17",
+  "r3": 8,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 8,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 8,
+  "fills": [
+    {
+      "fillColor": "#757575",
+      "fillOpacity": 1
+    }
+  ]
+}

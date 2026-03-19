@@ -1,0 +1,100 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51ea14eaa84",
+  "name": "Progress Tracker",
+  "type": "frame",
+  "x": 0,
+  "y": 242,
+  "width": 1440,
+  "height": 180,
+  "rotation": 0,
+  "selrect": {
+    "x": 0,
+    "y": 242,
+    "width": 1440,
+    "height": 180,
+    "x1": 0,
+    "y1": 242,
+    "x2": 1440,
+    "y2": 422
+  },
+  "points": [
+    {
+      "x": 0,
+      "y": 242
+    },
+    {
+      "x": 1440,
+      "y": 242
+    },
+    {
+      "x": 1440,
+      "y": 422
+    },
+    {
+      "x": 0,
+      "y": 422
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51e785145a6",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51e785145a6",
+  "flipX": null,
+  "flipY": null,
+  "hideFillOnExport": false,
+  "hideInViewer": true,
+  "r2": 0,
+  "showContent": false,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51e72827203",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [
+    {
+      "strokeColor": "#e0e0e0",
+      "strokeOpacity": 1,
+      "strokeWidth": 1
+    }
+  ],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillColor": "#ffffff",
+      "fillOpacity": 1
+    }
+  ],
+  "shapes": [
+    "63e1c1ca-bbbb-8082-8007-b51ea1aa24d2",
+    "63e1c1ca-bbbb-8082-8007-b51ea1a0fc44",
+    "63e1c1ca-bbbb-8082-8007-b51ea197b349",
+    "63e1c1ca-bbbb-8082-8007-b51ea1932a9a",
+    "63e1c1ca-bbbb-8082-8007-b51ea18d95ea",
+    "63e1c1ca-bbbb-8082-8007-b51ea18820d2",
+    "63e1c1ca-bbbb-8082-8007-b51ea1816a3b",
+    "63e1c1ca-bbbb-8082-8007-b51ea17d33c9",
+    "63e1c1ca-bbbb-8082-8007-b51ea1773a07",
+    "63e1c1ca-bbbb-8082-8007-b51ea16cbbe6",
+    "63e1c1ca-bbbb-8082-8007-b51ea163f2e7",
+    "63e1c1ca-bbbb-8082-8007-b51ea15fb9fc",
+    "63e1c1ca-bbbb-8082-8007-b51ea15bccab",
+    "63e1c1ca-bbbb-8082-8007-b51ea157fa96",
+    "63e1c1ca-bbbb-8082-8007-b51ea1545316"
+  ]
+}

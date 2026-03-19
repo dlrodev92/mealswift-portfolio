@@ -1,0 +1,143 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b517daad85f5",
+  "name": "Footer Text",
+  "type": "text",
+  "x": 476,
+  "y": 916,
+  "width": 366,
+  "height": 15,
+  "rotation": 0,
+  "selrect": {
+    "x": 476,
+    "y": 916,
+    "width": 366,
+    "height": 15,
+    "x1": 476,
+    "y1": 916,
+    "x2": 842,
+    "y2": 931
+  },
+  "points": [
+    {
+      "x": 476,
+      "y": 916
+    },
+    {
+      "x": 842,
+      "y": 916
+    },
+    {
+      "x": 842,
+      "y": 931
+    },
+    {
+      "x": 476,
+      "y": 931
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b517da992750",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b517da992750",
+  "flipX": null,
+  "flipY": null,
+  "growType": "auto-width",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "gfont-cascadia-mono",
+                "fontSize": "12",
+                "fontWeight": "400",
+                "textDirection": "ltr",
+                "fontVariantId": "regular",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#757575",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "Cascadia Mono",
+                "text": "\u00a9 2025 MealSwift \u00b7 Privacy Policy \u00b7 Terms of Service"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "gfont-cascadia-mono",
+            "fontSize": "12",
+            "fontWeight": "400",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "regular",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#757575",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "Cascadia Mono"
+          }
+        ]
+      }
+    ]
+  },
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "positionData": [
+    {
+      "x": 476,
+      "y": 930,
+      "width": 365.625,
+      "height": 14,
+      "x1": 0,
+      "y1": 0,
+      "x2": 365.625,
+      "y2": 14,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#757575",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "\"Cascadia Mono\"",
+      "text": "\u00a9 2025 MealSwift \u00b7 Privacy Policy \u00b7 Terms of Service"
+    }
+  ],
+  "pageId": "63e1c1ca-bbbb-8082-8007-b515e8f41a0b"
+}

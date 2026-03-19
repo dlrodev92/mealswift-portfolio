@@ -1,0 +1,120 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51d9b509ce0",
+  "name": "Payment Method",
+  "type": "frame",
+  "x": 80,
+  "y": 584,
+  "width": 819.9999999999998,
+  "height": 360,
+  "rotation": 0,
+  "selrect": {
+    "x": 80,
+    "y": 584,
+    "width": 819.9999999999998,
+    "height": 360,
+    "x1": 80,
+    "y1": 584,
+    "x2": 899.9999999999998,
+    "y2": 944
+  },
+  "points": [
+    {
+      "x": 80,
+      "y": 584
+    },
+    {
+      "x": 899.9999999999998,
+      "y": 584
+    },
+    {
+      "x": 899.9999999999998,
+      "y": 944
+    },
+    {
+      "x": 80,
+      "y": 944
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51d61ff58d3",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51d61ff58d3",
+  "flipX": null,
+  "flipY": null,
+  "hideFillOnExport": false,
+  "hideInViewer": true,
+  "r2": 12,
+  "showContent": false,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51cfabaff8c",
+  "r3": 12,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 12,
+  "strokes": [
+    {
+      "strokeColor": "#e0e0e0",
+      "strokeOpacity": 1,
+      "strokeWidth": 1
+    }
+  ],
+  "proportion": 1,
+  "shadow": [
+    {
+      "id": "63e1c1ca-bbbb-8082-8007-b51d9b5a9de4",
+      "style": "drop-shadow",
+      "color": {
+        "color": "#000000",
+        "opacity": 0.06
+      },
+      "offsetX": 0,
+      "offsetY": 2,
+      "blur": 8,
+      "spread": 0,
+      "hidden": false
+    }
+  ],
+  "r4": 12,
+  "fills": [
+    {
+      "fillColor": "#ffffff",
+      "fillOpacity": 1
+    }
+  ],
+  "shapes": [
+    "63e1c1ca-bbbb-8082-8007-b51d9bbdd16d",
+    "63e1c1ca-bbbb-8082-8007-b51d9bb5aa3d",
+    "63e1c1ca-bbbb-8082-8007-b51d9bb08170",
+    "63e1c1ca-bbbb-8082-8007-b51d9bac5a5a",
+    "63e1c1ca-bbbb-8082-8007-b51d9ba73ca7",
+    "63e1c1ca-bbbb-8082-8007-b51d9ba1b477",
+    "63e1c1ca-bbbb-8082-8007-b51d9b9e76da",
+    "63e1c1ca-bbbb-8082-8007-b51d9b99b581",
+    "63e1c1ca-bbbb-8082-8007-b51d9b93a5aa",
+    "63e1c1ca-bbbb-8082-8007-b51d9b902786",
+    "63e1c1ca-bbbb-8082-8007-b51d9b8a58fd",
+    "63e1c1ca-bbbb-8082-8007-b51d9b85ff69",
+    "63e1c1ca-bbbb-8082-8007-b51d9b81933c",
+    "63e1c1ca-bbbb-8082-8007-b51d9b7c5136",
+    "63e1c1ca-bbbb-8082-8007-b51d9b78afb6",
+    "63e1c1ca-bbbb-8082-8007-b51d9b71af42",
+    "63e1c1ca-bbbb-8082-8007-b51d9b6d87e8",
+    "63e1c1ca-bbbb-8082-8007-b51d9b68c470",
+    "63e1c1ca-bbbb-8082-8007-b51d9b64a084",
+    "63e1c1ca-bbbb-8082-8007-b51d9b5d079c"
+  ]
+}

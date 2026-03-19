@@ -1,0 +1,149 @@
+/* ─── MOOD BOARD ─────────────────────────────────────────────────────────────
+   Two-column layout: large image (left) + info sidebar (right, 320px).
+   ─────────────────────────────────────────────────────────────────────────── */
+
+/* ── Two-column grid ── */
+.moodboard__layout {
+  display:               grid;
+  grid-template-columns: 1fr 320px;
+  gap:                   var(--space-md);
+  align-items:           start;
+}
+
+/* ── Main image card ── */
+.moodboard__img-card {
+  border:        1px solid var(--color-border);
+  background:    rgba(255, 255, 255, 0.02);
+  overflow:      hidden;
+  border-radius: 2px;
+  cursor:        zoom-in;
+  transition:    border-color var(--ease-base), transform var(--ease-base);
+}
+
+.moodboard__img-card:hover {
+  border-color: var(--color-border-hover);
+  transform:    translateY(-3px);
+}
+
+.moodboard__img-card img {
+  width:      100%;
+  height:     560px;
+  object-fit: contain;
+  display:    block;
+  background: rgba(255, 255, 255, 0.015);
+}
+
+/* ── Sidebar ── */
+.moodboard__sidebar {
+  display:        flex;
+  flex-direction: column;
+  gap:            var(--space-sm);
+}
+
+/* Info card (shared) */
+.info-card {
+  background:    var(--color-bg-card);
+  border:        1px solid var(--color-border);
+  border-radius: 2px;
+  padding:       var(--space-md);
+  transition:    border-color var(--ease-base);
+}
+
+.info-card:hover { border-color: rgba(40, 142, 193, 0.2); }
+
+.info-card__label {
+  font-family:    var(--font-mono);
+  font-size:      0.6rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color:          var(--color-primary);
+  margin-bottom:  var(--space-sm);
+}
+
+/* ── Palette swatches ── */
+.palette-list {
+  display:        flex;
+  flex-direction: column;
+  gap:            var(--space-sm);
+}
+
+.palette-item {
+  display:     flex;
+  align-items: center;
+  gap:         var(--space-sm);
+}
+
+.palette-swatch {
+  width:         44px;
+  height:        44px;
+  flex-shrink:   0;
+  border-radius: 2px;
+  border:        1px solid rgba(255, 255, 255, 0.08);
+}
+
+.palette-name {
+  font-size:     0.82rem;
+  font-weight:   500;
+  color:         var(--color-text);
+  margin-bottom: 0.1rem;
+}
+
+.palette-hex {
+  font-family: var(--font-mono);
+  font-size:   0.58rem;
+  color:       var(--color-text-muted);
+}
+
+/* ── Keyword tags ── */
+.keyword-list {
+  display:   flex;
+  flex-wrap: wrap;
+  gap:       0.4rem;
+}
+
+.keyword-tag {
+  border:         1px solid rgba(225, 237, 48, 0.32);
+  color:          var(--color-accent);
+  padding:        0.22rem 0.65rem;
+  font-family:    var(--font-mono);
+  font-size:      0.65rem;
+  letter-spacing: 0.06em;
+  border-radius:  2px;
+  transition:     background var(--ease-fast), color var(--ease-fast);
+}
+
+.keyword-tag:hover {
+  background: var(--color-accent);
+  color:      #0d1117;
+}
+
+/* ── Typeface sample ── */
+.typeface-sample {
+  font-family:   'Cascadia Code', 'Cascadia Mono', ui-monospace, monospace;
+  font-size:     1.35rem;
+  color:         var(--color-text);
+  margin-bottom: var(--space-xs);
+  letter-spacing: 0.04em;
+}
+
+.typeface-note {
+  font-family:    var(--font-mono);
+  font-size:      0.6rem;
+  color:          var(--color-text-muted);
+  letter-spacing: 0.06em;
+  line-height:    1.6;
+}
+
+/* ── Responsive ── */
+@media (max-width: 1000px) {
+  .moodboard__layout { grid-template-columns: 1fr 280px; }
+}
+
+@media (max-width: 900px) {
+  .moodboard__layout { grid-template-columns: 1fr; }
+  .moodboard__img-card img { height: 400px; }
+}
+
+@media (max-width: 480px) {
+  .moodboard__img-card img { height: 280px; }
+}

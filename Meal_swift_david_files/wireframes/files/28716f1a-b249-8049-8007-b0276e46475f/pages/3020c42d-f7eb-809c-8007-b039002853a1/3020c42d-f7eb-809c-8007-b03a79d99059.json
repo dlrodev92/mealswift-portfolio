@@ -1,0 +1,74 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b03a79d99059",
+  "name": "Pay Radio 1",
+  "type": "rect",
+  "x": 256,
+  "y": 1184,
+  "width": 20,
+  "height": 20,
+  "rotation": 0,
+  "selrect": {
+    "x": 256,
+    "y": 1184,
+    "width": 20,
+    "height": 20,
+    "x1": 256,
+    "y1": 1184,
+    "x2": 276,
+    "y2": 1204
+  },
+  "points": [
+    {
+      "x": 256,
+      "y": 1184
+    },
+    {
+      "x": 276,
+      "y": 1184
+    },
+    {
+      "x": 276,
+      "y": 1204
+    },
+    {
+      "x": 256,
+      "y": 1204
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b03a7948cb3d",
+  "frameId": "3020c42d-f7eb-809c-8007-b03a7948cb3d",
+  "flipX": null,
+  "flipY": null,
+  "r2": 10,
+  "proportionLock": false,
+  "pageId": "3020c42d-f7eb-809c-8007-b039002853a1",
+  "r3": 10,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 10,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 10,
+  "fills": [
+    {
+      "fillColor": "#212121",
+      "fillOpacity": 1
+    }
+  ]
+}

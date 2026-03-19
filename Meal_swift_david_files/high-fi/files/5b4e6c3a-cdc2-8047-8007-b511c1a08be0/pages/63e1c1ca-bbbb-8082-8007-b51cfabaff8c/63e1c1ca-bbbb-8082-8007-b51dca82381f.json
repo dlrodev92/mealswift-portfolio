@@ -1,0 +1,81 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51dca82381f",
+  "name": "Footer Bar",
+  "type": "frame",
+  "x": 0,
+  "y": 3428,
+  "width": 1440,
+  "height": 72,
+  "rotation": 0,
+  "selrect": {
+    "x": 0,
+    "y": 3428,
+    "width": 1440,
+    "height": 72,
+    "x1": 0,
+    "y1": 3428,
+    "x2": 1440,
+    "y2": 3500
+  },
+  "points": [
+    {
+      "x": 0,
+      "y": 3428
+    },
+    {
+      "x": 1440,
+      "y": 3428
+    },
+    {
+      "x": 1440,
+      "y": 3500
+    },
+    {
+      "x": 0,
+      "y": 3500
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51d61ff58d3",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51d61ff58d3",
+  "flipX": null,
+  "flipY": null,
+  "hideFillOnExport": false,
+  "hideInViewer": true,
+  "r2": 0,
+  "showContent": false,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51cfabaff8c",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillColor": "#212121",
+      "fillOpacity": 1
+    }
+  ],
+  "shapes": [
+    "63e1c1ca-bbbb-8082-8007-b51dca8ca86d",
+    "63e1c1ca-bbbb-8082-8007-b51dca8969d8"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b5148514b361",
+  "name": "Footer",
+  "type": "frame",
+  "x": 0,
+  "y": 2032,
+  "width": 1440,
+  "height": 320,
+  "rotation": 0,
+  "selrect": {
+    "x": 0,
+    "y": 2032,
+    "width": 1440,
+    "height": 320,
+    "x1": 0,
+    "y1": 2032,
+    "x2": 1440,
+    "y2": 2352
+  },
+  "points": [
+    {
+      "x": 0,
+      "y": 2032
+    },
+    {
+      "x": 1440,
+      "y": 2032
+    },
+    {
+      "x": 1440,
+      "y": 2352
+    },
+    {
+      "x": 0,
+      "y": 2352
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b512615dc909",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b512615dc909",
+  "flipX": null,
+  "flipY": null,
+  "hideFillOnExport": false,
+  "hideInViewer": true,
+  "r2": 0,
+  "showContent": false,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51248ccbd17",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillColor": "#203436",
+      "fillOpacity": 1
+    }
+  ],
+  "shapes": [
+    "63e1c1ca-bbbb-8082-8007-b51485e008cc",
+    "63e1c1ca-bbbb-8082-8007-b51485cd2c07",
+    "63e1c1ca-bbbb-8082-8007-b51485afea2c",
+    "63e1c1ca-bbbb-8082-8007-b514859703ee",
+    "63e1c1ca-bbbb-8082-8007-b51485bc1baa",
+    "63e1c1ca-bbbb-8082-8007-b514858a58df",
+    "63e1c1ca-bbbb-8082-8007-b51485a3b7c3",
+    "63e1c1ca-bbbb-8082-8007-b514857d8f4c",
+    "63e1c1ca-bbbb-8082-8007-b51485781546",
+    "63e1c1ca-bbbb-8082-8007-b51485729254",
+    "63e1c1ca-bbbb-8082-8007-b514856bf210",
+    "63e1c1ca-bbbb-8082-8007-b51485654df6",
+    "63e1c1ca-bbbb-8082-8007-b514855e62a7",
+    "63e1c1ca-bbbb-8082-8007-b51485570ade",
+    "63e1c1ca-bbbb-8082-8007-b51485510592",
+    "63e1c1ca-bbbb-8082-8007-b514854b3764",
+    "63e1c1ca-bbbb-8082-8007-b514854485e8",
+    "63e1c1ca-bbbb-8082-8007-b514853f81a8",
+    "63e1c1ca-bbbb-8082-8007-b514853a4c3d",
+    "63e1c1ca-bbbb-8082-8007-b5148533b1ba",
+    "63e1c1ca-bbbb-8082-8007-b514852e5ff4",
+    "63e1c1ca-bbbb-8082-8007-b5148527218b",
+    "63e1c1ca-bbbb-8082-8007-b514851ebd28"
+  ]
+}

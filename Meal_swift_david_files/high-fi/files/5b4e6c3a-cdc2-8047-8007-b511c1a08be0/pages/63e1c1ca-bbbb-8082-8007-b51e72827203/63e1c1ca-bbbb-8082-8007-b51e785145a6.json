@@ -1,0 +1,86 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51e785145a6",
+  "name": "Order Tracking",
+  "type": "frame",
+  "x": 0,
+  "y": 0,
+  "width": 1440,
+  "height": 3000,
+  "rotation": 0,
+  "selrect": {
+    "x": 0,
+    "y": 0,
+    "width": 1440,
+    "height": 3000,
+    "x1": 0,
+    "y1": 0,
+    "x2": 1440,
+    "y2": 3000
+  },
+  "points": [
+    {
+      "x": 0,
+      "y": 0
+    },
+    {
+      "x": 1440,
+      "y": 0
+    },
+    {
+      "x": 1440,
+      "y": 3000
+    },
+    {
+      "x": 0,
+      "y": 3000
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "00000000-0000-0000-0000-000000000000",
+  "frameId": "00000000-0000-0000-0000-000000000000",
+  "flipX": null,
+  "flipY": null,
+  "hideFillOnExport": false,
+  "r2": 0,
+  "showContent": false,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51e72827203",
+  "r3": 0,
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillColor": "#f9f9f9",
+      "fillOpacity": 1
+    }
+  ],
+  "shapes": [
+    "63e1c1ca-bbbb-8082-8007-b51f01b1a31d",
+    "63e1c1ca-bbbb-8082-8007-b51ef103b9ce",
+    "63e1c1ca-bbbb-8082-8007-b51ee55690da",
+    "63e1c1ca-bbbb-8082-8007-b51edd8c86fb",
+    "63e1c1ca-bbbb-8082-8007-b51ecb661195",
+    "63e1c1ca-bbbb-8082-8007-b51ebf01aba3",
+    "63e1c1ca-bbbb-8082-8007-b51ead6b1a0d",
+    "63e1c1ca-bbbb-8082-8007-b51ea14eaa84",
+    "63e1c1ca-bbbb-8082-8007-b51e8bc721b8",
+    "63e1c1ca-bbbb-8082-8007-b51e82899e7f"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51ba2f1a821",
+  "name": "Img Classic Burger",
+  "type": "rect",
+  "x": 392,
+  "y": 998,
+  "width": 100,
+  "height": 100,
+  "rotation": 0,
+  "selrect": {
+    "x": 392,
+    "y": 998,
+    "width": 100,
+    "height": 100,
+    "x1": 392,
+    "y1": 998,
+    "x2": 492,
+    "y2": 1098
+  },
+  "points": [
+    {
+      "x": 392,
+      "y": 998
+    },
+    {
+      "x": 492,
+      "y": 998
+    },
+    {
+      "x": 492,
+      "y": 1098
+    },
+    {
+      "x": 392,
+      "y": 1098
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51ba2ec3fad",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51ba2ec3fad",
+  "flipX": null,
+  "flipY": null,
+  "r2": 0,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51b1c45835a",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [
+    {
+      "fillOpacity": 1,
+      "fillImage": {
+        "id": "5b4e6c3a-cdc2-8047-8007-b51ba236d26e",
+        "name": "menu-item",
+        "width": 120,
+        "height": 80,
+        "mtype": "image\/jpeg",
+        "keepAspectRatio": false
+      }
+    }
+  ]
+}

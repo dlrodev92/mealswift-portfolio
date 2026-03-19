@@ -1,0 +1,74 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b03c2291dd9a",
+  "name": "Annotation BG",
+  "type": "rect",
+  "x": 1348,
+  "y": 206,
+  "width": 284,
+  "height": 246,
+  "rotation": 0,
+  "selrect": {
+    "x": 1348,
+    "y": 206,
+    "width": 284,
+    "height": 246,
+    "x1": 1348,
+    "y1": 206,
+    "x2": 1632,
+    "y2": 452
+  },
+  "points": [
+    {
+      "x": 1348,
+      "y": 206
+    },
+    {
+      "x": 1632,
+      "y": 206
+    },
+    {
+      "x": 1632,
+      "y": 452
+    },
+    {
+      "x": 1348,
+      "y": 452
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b03c211d5978",
+  "frameId": "3020c42d-f7eb-809c-8007-b03c211d5978",
+  "flipX": null,
+  "flipY": null,
+  "r2": 6,
+  "proportionLock": false,
+  "pageId": "3020c42d-f7eb-809c-8007-b03a8dd6bcda",
+  "r3": 6,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 6,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 6,
+  "fills": [
+    {
+      "fillColor": "#e3f2fd",
+      "fillOpacity": 1
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51bc87c06ba",
+  "name": "Plus Fries",
+  "type": "circle",
+  "x": 444,
+  "y": 1552,
+  "width": 32,
+  "height": 32,
+  "rotation": 0,
+  "selrect": {
+    "x": 444,
+    "y": 1552,
+    "width": 32,
+    "height": 32,
+    "x1": 444,
+    "y1": 1552,
+    "x2": 476,
+    "y2": 1584
+  },
+  "points": [
+    {
+      "x": 444,
+      "y": 1552
+    },
+    {
+      "x": 476,
+      "y": 1552
+    },
+    {
+      "x": 476,
+      "y": 1584
+    },
+    {
+      "x": 444,
+      "y": 1584
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51bc85a7c67",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51bc85a7c67",
+  "flipX": null,
+  "flipY": null,
+  "proportionLock": false,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "strokes": [],
+  "proportion": 1,
+  "fills": [
+    {
+      "fillColor": "#e1ed30",
+      "fillOpacity": 1
+    }
+  ],
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51b1c45835a"
+}

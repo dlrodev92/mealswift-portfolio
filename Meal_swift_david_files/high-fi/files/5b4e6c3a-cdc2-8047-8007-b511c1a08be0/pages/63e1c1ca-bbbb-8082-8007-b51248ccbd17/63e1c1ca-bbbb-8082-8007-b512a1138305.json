@@ -1,0 +1,80 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b512a1138305",
+  "name": "Search Bar BG",
+  "type": "rect",
+  "x": 520,
+  "y": 15.999999999999996,
+  "width": 400,
+  "height": 40,
+  "rotation": 0,
+  "selrect": {
+    "x": 520,
+    "y": 15.999999999999996,
+    "width": 400,
+    "height": 40,
+    "x1": 520,
+    "y1": 15.999999999999996,
+    "x2": 920,
+    "y2": 56
+  },
+  "points": [
+    {
+      "x": 520,
+      "y": 16
+    },
+    {
+      "x": 920,
+      "y": 16
+    },
+    {
+      "x": 920,
+      "y": 56.00000000000001
+    },
+    {
+      "x": 520,
+      "y": 56.00000000000001
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b512768062d4",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b512768062d4",
+  "flipX": null,
+  "flipY": null,
+  "r2": 20,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51248ccbd17",
+  "r3": 20,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 20,
+  "strokes": [
+    {
+      "strokeColor": "#e0e0e0",
+      "strokeOpacity": 1,
+      "strokeWidth": 1
+    }
+  ],
+  "proportion": 1,
+  "r4": 20,
+  "fills": [
+    {
+      "fillColor": "#f9f9f9",
+      "fillOpacity": 1
+    }
+  ]
+}

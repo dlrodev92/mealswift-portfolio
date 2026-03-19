@@ -1,0 +1,70 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51ba31f2641",
+  "name": "Plus BBQ Bacon Burger",
+  "type": "circle",
+  "x": 960,
+  "y": 1064,
+  "width": 32,
+  "height": 32,
+  "rotation": 0,
+  "selrect": {
+    "x": 960,
+    "y": 1064,
+    "width": 32,
+    "height": 32,
+    "x1": 960,
+    "y1": 1064,
+    "x2": 992,
+    "y2": 1096
+  },
+  "points": [
+    {
+      "x": 960,
+      "y": 1064
+    },
+    {
+      "x": 992,
+      "y": 1064
+    },
+    {
+      "x": 992,
+      "y": 1096
+    },
+    {
+      "x": 960,
+      "y": 1096
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51ba30aa174",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51ba30aa174",
+  "flipX": null,
+  "flipY": null,
+  "proportionLock": false,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "strokes": [],
+  "proportion": 1,
+  "fills": [
+    {
+      "fillColor": "#e1ed30",
+      "fillOpacity": 1
+    }
+  ],
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51b1c45835a"
+}

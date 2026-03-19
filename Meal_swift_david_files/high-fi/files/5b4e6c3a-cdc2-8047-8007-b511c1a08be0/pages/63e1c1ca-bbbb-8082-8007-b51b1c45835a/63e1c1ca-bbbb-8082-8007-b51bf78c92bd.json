@@ -1,0 +1,74 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51bf78c92bd",
+  "name": "Checkout BG",
+  "type": "rect",
+  "x": 1072,
+  "y": 904,
+  "width": 324,
+  "height": 52,
+  "rotation": 0,
+  "selrect": {
+    "x": 1072,
+    "y": 904,
+    "width": 324,
+    "height": 52,
+    "x1": 1072,
+    "y1": 904,
+    "x2": 1396,
+    "y2": 956
+  },
+  "points": [
+    {
+      "x": 1072,
+      "y": 904
+    },
+    {
+      "x": 1396,
+      "y": 904
+    },
+    {
+      "x": 1396,
+      "y": 956
+    },
+    {
+      "x": 1072,
+      "y": 956
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51bf6aeb1ec",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51bf6aeb1ec",
+  "flipX": null,
+  "flipY": null,
+  "r2": 8,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51b1c45835a",
+  "r3": 8,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 8,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 8,
+  "fills": [
+    {
+      "fillColor": "#e1ed30",
+      "fillOpacity": 1
+    }
+  ]
+}

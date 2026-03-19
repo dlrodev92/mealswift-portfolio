@@ -1,0 +1,106 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b51a3b9eec6e",
+  "name": "Card Pizza Roma",
+  "type": "frame",
+  "x": 690,
+  "y": 224,
+  "width": 340,
+  "height": 300,
+  "rotation": 0,
+  "selrect": {
+    "x": 690,
+    "y": 224,
+    "width": 340,
+    "height": 300,
+    "x1": 690,
+    "y1": 224,
+    "x2": 1030,
+    "y2": 524
+  },
+  "points": [
+    {
+      "x": 690,
+      "y": 224
+    },
+    {
+      "x": 1030,
+      "y": 224
+    },
+    {
+      "x": 1030,
+      "y": 524
+    },
+    {
+      "x": 690,
+      "y": 524
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b51a3b727300",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b51a3b727300",
+  "flipX": null,
+  "flipY": null,
+  "hideFillOnExport": false,
+  "hideInViewer": true,
+  "r2": 12,
+  "showContent": false,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51996880da3",
+  "r3": 12,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 12,
+  "strokes": [
+    {
+      "strokeColor": "#e0e0e0",
+      "strokeOpacity": 1,
+      "strokeWidth": 1
+    }
+  ],
+  "proportion": 1,
+  "shadow": [
+    {
+      "id": "63e1c1ca-bbbb-8082-8007-b51a3ba3c446",
+      "style": "drop-shadow",
+      "color": {
+        "color": "#000000",
+        "opacity": 0.06
+      },
+      "offsetX": 0,
+      "offsetY": 2,
+      "blur": 8,
+      "spread": 0,
+      "hidden": false
+    }
+  ],
+  "r4": 12,
+  "fills": [
+    {
+      "fillColor": "#ffffff",
+      "fillOpacity": 1
+    }
+  ],
+  "shapes": [
+    "63e1c1ca-bbbb-8082-8007-b51a3bc681cd",
+    "63e1c1ca-bbbb-8082-8007-b51a3bbf4b06",
+    "63e1c1ca-bbbb-8082-8007-b51a3bbaab0e",
+    "63e1c1ca-bbbb-8082-8007-b51a3bb338f1",
+    "63e1c1ca-bbbb-8082-8007-b51a3ba85ed3",
+    "63e1c1ca-bbbb-8082-8007-b51a3ba527e9"
+  ]
+}

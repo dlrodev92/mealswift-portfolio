@@ -1,0 +1,74 @@
+{
+  "id": "63e1c1ca-bbbb-8082-8007-b5143b3cbbad",
+  "name": "Claim Offer BG",
+  "type": "rect",
+  "x": 1200,
+  "y": 1438,
+  "width": 160,
+  "height": 48,
+  "rotation": 0,
+  "selrect": {
+    "x": 1200,
+    "y": 1438,
+    "width": 160,
+    "height": 48,
+    "x1": 1200,
+    "y1": 1438,
+    "x2": 1360,
+    "y2": 1486
+  },
+  "points": [
+    {
+      "x": 1200,
+      "y": 1438
+    },
+    {
+      "x": 1360,
+      "y": 1438
+    },
+    {
+      "x": 1360,
+      "y": 1486
+    },
+    {
+      "x": 1200,
+      "y": 1486
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "63e1c1ca-bbbb-8082-8007-b5143b146d9c",
+  "frameId": "63e1c1ca-bbbb-8082-8007-b5143b146d9c",
+  "flipX": null,
+  "flipY": null,
+  "r2": 8,
+  "proportionLock": false,
+  "pageId": "63e1c1ca-bbbb-8082-8007-b51248ccbd17",
+  "r3": 8,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 8,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 8,
+  "fills": [
+    {
+      "fillColor": "#e1ed30",
+      "fillOpacity": 1
+    }
+  ]
+}

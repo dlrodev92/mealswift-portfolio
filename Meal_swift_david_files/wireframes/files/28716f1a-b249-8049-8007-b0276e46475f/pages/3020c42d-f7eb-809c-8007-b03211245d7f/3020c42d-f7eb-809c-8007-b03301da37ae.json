@@ -1,0 +1,80 @@
+{
+  "id": "3020c42d-f7eb-809c-8007-b03301da37ae",
+  "name": "Password Input",
+  "type": "rect",
+  "x": 1040,
+  "y": 734,
+  "width": 480,
+  "height": 48,
+  "rotation": 0,
+  "selrect": {
+    "x": 1040,
+    "y": 734,
+    "width": 480,
+    "height": 48,
+    "x1": 1040,
+    "y1": 734,
+    "x2": 1520,
+    "y2": 782
+  },
+  "points": [
+    {
+      "x": 1040,
+      "y": 734
+    },
+    {
+      "x": 1520,
+      "y": 734
+    },
+    {
+      "x": 1520,
+      "y": 782
+    },
+    {
+      "x": 1040,
+      "y": 782
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "3020c42d-f7eb-809c-8007-b033016d8db5",
+  "frameId": "3020c42d-f7eb-809c-8007-b033016d8db5",
+  "flipX": null,
+  "flipY": null,
+  "r2": 6,
+  "proportionLock": false,
+  "pageId": "3020c42d-f7eb-809c-8007-b03211245d7f",
+  "r3": 6,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 6,
+  "strokes": [
+    {
+      "strokeColor": "#e0e0e0",
+      "strokeOpacity": 1,
+      "strokeWidth": 1
+    }
+  ],
+  "proportion": 1,
+  "r4": 6,
+  "fills": [
+    {
+      "fillColor": "#ffffff",
+      "fillOpacity": 1
+    }
+  ]
+}
