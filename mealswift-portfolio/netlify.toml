@@ -1,7 +1,6 @@
 [build]
-  base    = "mealswift-portfolio"
-  publish = "mealswift-portfolio"
-  command = ""
+  publish = "."
+  command  = ""
 
 [[headers]]
   for = "/*"
